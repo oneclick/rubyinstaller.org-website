@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "RubyInstaller 2.4.1-1 released"
-date:   2017-04-12 19:16:07 +0200
+date:   2017-05-25 20:03:07 +0200
 author: Lars Kanis
 ---
 RubyInstaller 2.4 for Windows has been finally released!
