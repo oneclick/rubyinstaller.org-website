@@ -22,6 +22,6 @@ gem install --platform ruby <gemname>
 ```
 to force installation of the source gem, for the time being.
 This requires MSYS2 and MINGW tools to be installed, for example per `ridk install`.
-Also see the [FAQ](https://github.com/oneclick/rubyinstaller2/wiki/FAQ) for further recommendations.
+Also see the [FAQ](https://github.com/oneclick/rubyinstaller2/wiki/FAQ) for further recommendations regarding rails and popular gems.
 
 Gem authors, who want to support RubyInstaller2, please refer to the [Tips for gem developers](https://github.com/oneclick/rubyinstaller2/wiki/For-gem-developers).
