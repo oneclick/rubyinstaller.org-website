@@ -727,26 +727,26 @@
   href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.8.7-p302-doc-chm.7z
   name: Ruby 1.8.7-p302 CHM
 - filetype: devkitsfx
-  href: https://dl.bintray.com/oneclick/rubyinstaller/defunct/DevKit-tdm-32-4.5.2-20110712-1620-devkitsfx.exe
-  name: DevKit-tdm-32-4.5.2-20110712-1620-devkitsfx.exe
+  href: https://dl.bintray.com/oneclick/rubyinstaller/defunct/DevKit-tdm-32-4.5.2-20110712-1620-sfx.exe
+  name: DevKit-tdm-32-4.5.2-20110712-1620-sfx.exe
 - filetype: devkitsfx
-  href: https://dl.bintray.com/oneclick/rubyinstaller/DevKit-tdm-32-4.5.1-20101214-1400-devkitsfx.exe
-  name: DevKit-tdm-32-4.5.1-20101214-1400-devkitsfx.exe
+  href: https://dl.bintray.com/oneclick/rubyinstaller/DevKit-tdm-32-4.5.1-20101214-1400-sfx.exe
+  name: DevKit-tdm-32-4.5.1-20101214-1400-sfx.exe
 - filetype: devkitsfx
-  href: https://dl.bintray.com/oneclick/rubyinstaller/DevKit-4.5.0-20100819-1536-devkitsfx.exe
-  name: DevKit-4.5.0-20100819-1536-devkitsfx.exe
+  href: https://dl.bintray.com/oneclick/rubyinstaller/DevKit-4.5.0-20100819-1536-sfx.exe
+  name: DevKit-4.5.0-20100819-1536-sfx.exe
 - filetype: devkitsfx
-  href: https://dl.bintray.com/oneclick/rubyinstaller/DevKit-3.4.5-20100819-1535-devkitsfx.exe
-  name: DevKit-3.4.5-20100819-1535-devkitsfx.exe
+  href: https://dl.bintray.com/oneclick/rubyinstaller/DevKit-3.4.5-20100819-1535-sfx.exe
+  name: DevKit-3.4.5-20100819-1535-sfx.exe
 - filetype: devkitsfx
-  href: https://dl.bintray.com/oneclick/rubyinstaller/DevKit-tdm-32-4.5.2-20111229-1559-devkitsfx.exe
-  name: DevKit-tdm-32-4.5.2-20111229-1559-devkitsfx.exe
+  href: https://dl.bintray.com/oneclick/rubyinstaller/DevKit-tdm-32-4.5.2-20111229-1559-sfx.exe
+  name: DevKit-tdm-32-4.5.2-20111229-1559-sfx.exe
   show: true
 - filetype: devkitsfx
-  href: https://dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-32-4.7.2-20130224-1151-devkitsfx.exe
-  name: DevKit-mingw64-32-4.7.2-20130224-1151-devkitsfx.exe
+  href: https://dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe
+  name: DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe
   show: true
 - filetype: devkitsfx
-  href: https://dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-64-4.7.2-20130224-1432-devkitsfx.exe
-  name: DevKit-mingw64-64-4.7.2-20130224-1432-devkitsfx.exe
+  href: https://dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe
+  name: DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe
   show: true
