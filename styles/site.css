@@ -300,6 +300,7 @@ p.posted {
 div.news_item a.more {
         background:url("../assets/bullet.png") no-repeat 0 0px;
         padding-left: 20px;
+        padding-bottom: 1px;
 }
 div.news_item a:hover.more {
         background:url("../assets/bullet.png") no-repeat 0 -20px;
