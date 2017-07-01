@@ -15,7 +15,7 @@ gem install bundler
 bundle install
 ```
 
-Now you can run the jekyll generator and embedded server:
+Now you can run the jekyll generator and embedded web server:
 ```sh
 jekyll serve --drafts
 ```
