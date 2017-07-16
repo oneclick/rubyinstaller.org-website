@@ -40,7 +40,9 @@ If you want to use
 
 The Ruby core and standard library documentation is part of the installation.
 As an added convenience for Windows users, we’ve made available the Ruby Core and Standard Library documentation
-in Compiled HTML Help (CHM) format. It can be downloaded separately for older Ruby versions.
+in Compiled HTML Help (CHM) format.
+It can be downloaded separately for older Ruby versions.
+For newer Ruby versions we recommend the [online documentation](https://ruby-doc.org/) or HTML version downloadable [from ruby-doc.org](https://ruby-doc.org/downloads/).
 
 ### Support
 
