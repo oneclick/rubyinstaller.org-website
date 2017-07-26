@@ -34,7 +34,6 @@ RubyGem compatibility, including support for many more native C-based extensions
 
 No additional software is needed if you want to use the executable versions of the RubyInstaller.
 If you would like to use the 7-Zip archived versions or the Ruby documentation, you will need to download 7-Zip from the [7-Zip website](http://www.7-zip.org/).
-If you want to use
 
 ### Documentation
 
