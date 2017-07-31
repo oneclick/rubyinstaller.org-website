@@ -4,7 +4,7 @@ title:  "RubyInstaller 2.4.1-1 released"
 date:   2017-05-25 20:03:07 +0200
 author: Lars Kanis
 ---
-RubyInstaller 2.4 for Windows has been finally released!
+RubyInstaller 2.4 for Windows has been finally released and is available in the [Download section]({{ "/downloads/" | relative_url }})!
 
 It is based on the [MSYS2](http://www.msys2.org/) [toolchain](https://github.com/Alexpux/MINGW-packages) now, and the build scripts are rewritten from the scratch.
 Therefore the github repository has changed - it is now [RubyInstaller2](https://github.com/oneclick/rubyinstaller2).

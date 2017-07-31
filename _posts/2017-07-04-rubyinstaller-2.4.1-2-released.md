@@ -3,7 +3,7 @@ layout: post
 title:  "RubyInstaller 2.4.1-2 released"
 author: Lars Kanis
 ---
-RubyInstaller 2.4.1-2 for Windows has been released!
+RubyInstaller 2.4.1-2 for Windows has been released and is available in the [Download section]({{ "/downloads/" | relative_url }})!
 
 It's a maintenence update to the 2.4 branch.
 It brings some minor changes to the MSYS2 install process.
