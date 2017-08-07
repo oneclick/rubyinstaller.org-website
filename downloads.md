@@ -1,58 +1,49 @@
----
-layout: downloads
-title: Downloads
-permalink: /downloads/
----
-## RubyInstallers <a id="archive" href="{{ "/downloads/archives" | relative_url }}">Archives</a>
+### Which version to download?
 
+If you don’t know what version to install and you’re getting started with Ruby,
+we recommend you use Ruby <b>2.2.X</b> installers. These provide a stable
+language and a extensive list of packages (gems) that are compatible and
+updated.
 
-Not sure what version to download? Please read the right column for recommendations.
+However, not all packages (gems) are maintained. Some older packages may not
+be compatible with newer versions of Ruby and RubyInstaller.
 
-<ul>
-  {% assign dls = (site.data.downloads | where: "filetype", "rubyinstallerexe" | where: "show", "true") %}
-  {% for dl in dls %}
-  <li class="{{ dl.filetype }}"><a href="{{ dl.href }}">{{ dl.name }}</a></li>
-  {% endfor %}
-</ul>
+To use newer versions you will require some knowledge about compilers and
+solving dependency issues, which might be too complicated if you just want to
+play with the language.
 
-## Other Useful Downloads
+### Which Development Kit?
 
-### 7-Zip Archives
+Down this page, several and <em>different</em> versions of Development Kits (DevKit) are listed. Please download the right one for your version of Ruby:
 
-<ul>
-  {% assign dls = (site.data.downloads | where: "filetype", "rubyinstaller7z" | where: "show", "true") %}
-  {% for dl in dls %}
-  <li class="{{ dl.filetype }}"><a href="{{ dl.href }}">{{ dl.name }}</a></li>
-  {% endfor %}
-</ul>
+* Ruby 2.4.0 and newer: The MSYS2 DevKit is downloaded as the last step of the installation.
+* Ruby 2.0.0 to 2.3.x (32bits): *mingw64-32-4.7.2*
+* Ruby 2.0.0 to 2.3.x (64bits): *mingw64-64-4.7.2*
 
+The [RubyInstaller Development Kit (DevKit)](http://github.com/oneclick/rubyinstaller/wiki/Development-Kit) is
+a MSYS/MinGW based toolkit than enables you to build many of the native C/C++ extensions available for Ruby.
+Starting with Ruby 2.4.0 it is replaced by the [MSYS2 toolkit](http://www.msys2.org).
 
-### Ruby Core & Standard Library Documentation
+### Speed and Compatibility
 
-<ul>
-  {% assign dls = (site.data.downloads | where: "filetype", "rubychm7z" | where: "show", "true") %}
-  {% for dl in dls %}
-  <li class="{{ dl.filetype }}"><a href="{{ dl.href }}">{{ dl.name }}</a></li>
-  {% endfor %}
-</ul>
+RubyInstaller is compiled with MinGW which offers improved speed and better
+RubyGem compatibility, including support for many more native C-based extensions such as <a href="http://github.com/ffi/ffi">Ruby FFI</a>, <a href="http://nokogiri.org/">Nokogiri</a>,
+<a href="http://www.fxruby.org/">FXRuby</a> and <a href="http://github.com/oneclick/rubyinstaller/wiki/Gem-List">many others</a>.
 
+### Convenience
 
-### Development Kit
+No additional software is needed if you want to use the executable versions of the RubyInstaller.
+If you would like to use the 7-Zip archived versions or the Ruby documentation, you will need to download 7-Zip from the [7-Zip website](http://www.7-zip.org/).
 
-#### For use with Ruby 2.0 to 2.3 (32bits version only):
+### Documentation
 
-<ul>
-  {% include fileicon.html text="DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe" filetype="devkitsfx" href="https://dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe" %}
-</ul>
+The Ruby core and standard library documentation is part of the installation.
+As an added convenience for Windows users, we’ve made available the Ruby Core and Standard Library documentation
+in Compiled HTML Help (CHM) format.
+It can be downloaded separately for older Ruby versions.
+For newer Ruby versions we recommend the [online documentation](https://ruby-doc.org/) or HTML version downloadable [from ruby-doc.org](https://ruby-doc.org/downloads/).
 
+### Support
 
-#### For use with Ruby 2.0 to 2.3 (x64 - 64bits only)
-
-<ul>
-  {% include fileicon.html text="DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe" filetype="devkitsfx" href="https://dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe" %}
-</ul>
-
-##  MD5 & SHA256 Checksums
-
-For MD5 and SHA256 checksums of available downloads please check the corresponding **package/version**
-_files tab_ or _release notes_ at the [RubyInstaller repository on Bintray](https://bintray.com/oneclick/rubyinstaller).
+Enjoy, happy Ruby coding, and let us know what you think or if you have any issues at our helpful and friendly
+[RubyInstaller Google Group](http://groups.google.com/group/rubyinstaller).
