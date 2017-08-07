@@ -426,3 +426,8 @@ li.devkitsfx { list-style-image:url("../assets/sfx_24x19.png"); list-style-posit
     src: url("fonts/Vegur-Bold.woff") format('woff');
     font-weight: bold;
 }
+
+div#footer a.edit {
+        background:url("../assets/document-edit.png") no-repeat bottom left;
+        padding-left: 20px;
+}
