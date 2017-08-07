@@ -1,8 +1,3 @@
----
-layout: downloads
-title: Downloads
-permalink: /downloads/
----
 ## RubyInstallers <a id="archive" href="{{ "/downloads/archives" | relative_url }}">Archives</a>
 
 

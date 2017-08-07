@@ -1,3 +1,8 @@
+---
+layout: downloads
+title: Downloads
+permalink: /downloads/
+---
 ### Which version to download?
 
 If you don’t know what version to install and you’re getting started with Ruby,
