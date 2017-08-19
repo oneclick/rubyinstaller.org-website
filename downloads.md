@@ -28,8 +28,8 @@ Please download the right one for your version of Ruby:
 
 * Ruby 2.4.0 and newer: The MSYS2 DevKit is downloaded as the last step of the installation.
   It can be installed later per `ridk install` command.
-* Ruby 2.0.0 to 2.3.x (32bits): *mingw64-32-4.7.2*
-* Ruby 2.0.0 to 2.3.x (64bits): *mingw64-64-4.7.2*
+* Ruby 2.0.0 to 2.3.x (32bits): *mingw64-32-4.7.2* and run `devkitvars.bat` to add the devkit to your path
+* Ruby 2.0.0 to 2.3.x (64bits): *mingw64-64-4.7.2* and run `devkitvars.bat` to add the devkit to your path
 
 ### Speed and Compatibility
 
