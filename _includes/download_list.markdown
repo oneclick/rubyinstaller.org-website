@@ -5,9 +5,7 @@ Not sure what version to download? Please read the right column for recommendati
 
 <ul>
   {% assign dls = (site.data.downloads | where: "filetype", "rubyinstallerexe" | where: "show", "true") %}
-  {% for dl in dls %}
-  <li class="{{ dl.filetype }}"><a href="{{ dl.href }}">{{ dl.name }}</a></li>
-  {% endfor %}
+  {% include downloadlinks.html dls=dls %}
 </ul>
 
 ## Other Useful Downloads
@@ -16,9 +14,7 @@ Not sure what version to download? Please read the right column for recommendati
 
 <ul>
   {% assign dls = (site.data.downloads | where: "filetype", "rubyinstaller7z" | where: "show", "true") %}
-  {% for dl in dls %}
-  <li class="{{ dl.filetype }}"><a href="{{ dl.href }}">{{ dl.name }}</a></li>
-  {% endfor %}
+  {% include downloadlinks.html dls=dls %}
 </ul>
 
 
@@ -26,9 +22,7 @@ Not sure what version to download? Please read the right column for recommendati
 
 <ul>
   {% assign dls = (site.data.downloads | where: "filetype", "rubychm7z" | where: "show", "true") %}
-  {% for dl in dls %}
-  <li class="{{ dl.filetype }}"><a href="{{ dl.href }}">{{ dl.name }}</a></li>
-  {% endfor %}
+  {% include downloadlinks.html dls=dls %}
 </ul>
 
 
@@ -37,14 +31,16 @@ Not sure what version to download? Please read the right column for recommendati
 #### For use with Ruby 2.0 to 2.3 (32bits version only):
 
 <ul>
-  {% include fileicon.html text="DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe" filetype="devkitsfx" href="https://dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe" %}
+  {% assign dls = (site.data.downloads | where: "filetype", "devkitsfx" | where: "show", "32") %}
+  {% include downloadlinks.html dls=dls %}
 </ul>
 
 
 #### For use with Ruby 2.0 to 2.3 (x64 - 64bits only)
 
 <ul>
-  {% include fileicon.html text="DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe" filetype="devkitsfx" href="https://dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe" %}
+  {% assign dls = (site.data.downloads | where: "filetype", "devkitsfx" | where: "show", "64") %}
+  {% include downloadlinks.html dls=dls %}
 </ul>
 
 ##  MD5 & SHA256 Checksums

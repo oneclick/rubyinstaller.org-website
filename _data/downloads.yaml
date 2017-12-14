@@ -948,12 +948,11 @@
 - filetype: devkitsfx
   href: https://dl.bintray.com/oneclick/rubyinstaller/DevKit-tdm-32-4.5.2-20111229-1559-sfx.exe
   name: DevKit-tdm-32-4.5.2-20111229-1559-sfx.exe
-  show: true
 - filetype: devkitsfx
   href: https://dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe
   name: DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe
-  show: true
+  show: 32
 - filetype: devkitsfx
   href: https://dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe
   name: DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe
-  show: true
+  show: 64
