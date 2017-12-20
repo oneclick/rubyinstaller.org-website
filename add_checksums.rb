@@ -77,15 +77,16 @@ end.each do |fileref|
 
   if fileref["sha256"] && !ascfilepath
     # already verified by hash
-    if system("gpg --detach-sign --armor --local-user 0xF98B8484BE8BF1C5 #{filepath}")
-      puts "signed file: #{filename}"
 
-      # Enable this, when the signature files are uploaded next to the download file:
+    # Enable this, when the signature files can be uploaded next to the download file:
+#     if system("gpg --detach-sign --armor --local-user 0xF98B8484BE8BF1C5 #{filepath}")
+#       puts "signed file: #{filename}"
+#
 #       fileref["gpgsign"] = fileref["href"] + ".asc"
 #       write_filerefs(filerefs)
-    else
-      puts "unable to sign file: #{filename}"
-    end
+#     else
+#       puts "unable to sign file: #{filename}"
+#     end
   elsif ascfilepath
     # not yet verified -> try to verify by gpg signature
     if system("gpg --verify #{ascfilepath} #{filepath}")
