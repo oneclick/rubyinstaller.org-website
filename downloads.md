@@ -5,17 +5,12 @@ permalink: /downloads/
 ---
 ### Which version to download?
 
-If you don’t know what version to install and you’re getting started with Ruby,
-we recommend you use Ruby <b>2.4.X</b> installers. These provide a stable
-language and a extensive list of packages (gems) that are compatible and
-updated.
+<b>Don't use the Ruby 2.5.0</b> installer, unless you want to solve issues when installing gems!
+If you don’t know what version to install and you’re getting started with Ruby, we recommend you use Ruby <b>2.4.X</b> as x64 or x86 installer.
+These provide a stable language and the biggest number of compatible gems.
+However, not all gems are maintained. Some older packages may not be compatible with newer versions of Ruby and RubyInstaller.
 
-However, not all packages (gems) are maintained. Some older packages may not
-be compatible with newer versions of Ruby and RubyInstaller.
-
-To use newer versions you will require some knowledge about compilers and
-solving dependency issues, which might be too complicated if you just want to
-play with the language.
+In any case, if you find gems that are not compatible, you're encouraged to notify the gem author or even better open pull requests about this issue.
 
 ### Which Development Kit?
 
