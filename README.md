@@ -17,7 +17,7 @@ bundle install
 
 Now you can run the jekyll generator and embedded web server:
 ```sh
-jekyll serve --drafts
+jekyll serve --drafts --incremental
 ```
 
 Point your browser to http://localhost:4000 to view the result.
