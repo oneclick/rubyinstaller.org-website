@@ -46,4 +46,4 @@ It can be downloaded separately for older Ruby versions.
 ### Support
 
 Enjoy, happy Ruby coding, and let us know what you think or if you have any issues at our helpful and friendly
-[RubyInstaller Google Group](http://groups.google.com/group/rubyinstaller).
+[RubyInstaller Google Group](http://groups.google.com/group/rubyinstaller).@chenjiawei-19881015
