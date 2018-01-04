@@ -6,7 +6,8 @@ $(function() {
     document.execCommand("copy");
   });
 
-  $("a.downloadinfo, a.downloadlink").click(function () {
+  $("a.downloadinfo").click(function () {
+    $(this).toggleClass("active");
     $(this).nextAll("ul.downloadinfo").toggle(500);
   });
 });
