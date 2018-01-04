@@ -2,14 +2,17 @@
   <li class="{{ dl.filetype }}">
     <a class="downloadlink" href="{{ dl.href }}">{{ dl.name }}</a>
     {% if dl.gpgsign or dl.sha256 %}
-      <a class="downloadinfo">🢆</a>
+      <a class="downloadinfo" title="Show / hide details"></a>
       <ul class="downloadinfo">
         {% if dl.gpgsign %}
           <li>download <a href="{{ dl.gpgsign }}">GPG signature</a></li>
         {% endif %}
         {% if dl.sha256 %}
           <li>
-            SHA256: <input class="js-copytextinput buttonbox" value="{{ dl.sha256 }}"/><button class="js-copybtn buttonbox" style="vertical-align:top;"><img src="{{ "/assets/copy_clipboard.svg" | relative_url }}"></button>
+            SHA256: <input class="js-copytextinput buttonbox" value="{{ dl.sha256 }}"/>
+            <button class="js-copybtn buttonbox" style="vertical-align:top;" title="Copy to clipboard">
+              <img src="{{ "/assets/copy_clipboard.svg" | relative_url }}">
+            </button>
           </li>
         {% endif %}
       </ul>

@@ -417,9 +417,16 @@ li.rubyinstaller7z, li.rubychm7z { list-style-image:url("../assets/sevenz_16x16.
 li.chksum { list-style-image:url("../assets/chksum_16x16.png"); list-style-position:inside; }
 li.devkitsfx { list-style-image:url("../assets/sfx_24x19.png"); list-style-position:inside; }
 
-a.downloadinfo {
-  padding-left: 10px;
+a.downloadlink {
+  display: inline-block;
+  min-width: 100px;
 }
+
+a.downloadinfo { padding-left: 10px; }
+a.downloadinfo:after { content: "\2261"; }
+a.downloadinfo.active:after { content: "\2297"; vertical-align: text-bottom; }
+a.downloadinfo:hover { text-decoration: none; }
+
 ul.downloadinfo {
   list-style-image:none;
   display: none;
