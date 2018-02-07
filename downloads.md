@@ -5,7 +5,6 @@ permalink: /downloads/
 ---
 ### Which version to download?
 
-<b>Don't use the Ruby 2.5.0</b> installer, unless you want to solve issues when installing gems!
 If you don’t know what version to install and you’re getting started with Ruby, we recommend you use Ruby <b>2.4.X</b> as x64 or x86 installer.
 These provide a stable language and the biggest number of compatible gems.
 However, not all gems are maintained. Some older packages may not be compatible with newer versions of Ruby and RubyInstaller.
