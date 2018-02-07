@@ -27,12 +27,14 @@
   href: https://github.com/oneclick/rubyinstaller2/releases/download/rubyinstaller-2.4.3-1/rubyinstaller-2.4.3-1-x64.7z
   name: Ruby 2.4.3-1 (x64)
   show: true
+  recommended: true
   sha256: cf5688c3e8220106c7f8c91fa780b28c08ae6d05201738b92ee013c9258d32a8
   gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/rubyinstaller-2.4.3-1/rubyinstaller-2.4.3-1-x64.7z.asc
 - filetype: rubyinstallerexe
   href: https://github.com/oneclick/rubyinstaller2/releases/download/rubyinstaller-2.4.3-1/rubyinstaller-2.4.3-1-x64.exe
   name: Ruby 2.4.3-1 (x64)
   show: true
+  recommended: true
   sha256: 4ba68a2f47ebbe8553cffe7619ca30f4c15471c1c56520461af6f3fe7c145e69
   gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/rubyinstaller-2.4.3-1/rubyinstaller-2.4.3-1-x64.exe.asc
 - filetype: rubyinstaller7z

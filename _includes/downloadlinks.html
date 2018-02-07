@@ -1,6 +1,6 @@
 {% for dl in include.dls %}
   <li class="{{ dl.filetype }}">
-    <a class="downloadlink" href="{{ dl.href }}">{{ dl.name }}</a>
+    <a class="downloadlink {% if dl.recommended %}download-recommended{% endif %}" href="{{ dl.href }}">{{ dl.name }}</a>
     {% if dl.gpgsign or dl.sha256 %}
       <a class="downloadinfo" title="Show / hide details"></a>
       <ul class="downloadinfo">

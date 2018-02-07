@@ -419,8 +419,13 @@ li.devkitsfx { list-style-image:url("../assets/sfx_24x19.png"); list-style-posit
 
 a.downloadlink {
   display: inline-block;
-  min-width: 100px;
+  min-width: 120px;
 }
+
+a.download-recommended {
+  font-weight: bold;
+}
+a.download-recommended:before { content: "=> "; }
 
 a.downloadinfo { padding-left: 10px; }
 a.downloadinfo:after { content: "\2261"; }
