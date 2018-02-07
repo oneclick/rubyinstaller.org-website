@@ -9,7 +9,7 @@ title: RubyInstaller for Windows
 ## Is RubyInstaller for you?
 
 RubyInstaller is the easiest and most used Ruby environment on Windows.
-And Ruby is a great language for beginners as well as professionals.
+And [Ruby](https://www.ruby-lang.org) is a [great language](http://www.bestprogramminglanguagefor.me/why-learn-ruby) for beginners as well as professionals.
 It's suitable for small scripts as well as large applications.
 RubyInstaller combines the possibilities of native Windows programs with the rich UNIX toolset of [MSYS2](http://www.msys2.org) and the [large repository of MINGW libraries](https://github.com/Alexpux/MINGW-packages).
 It is a great foundation to use Ruby for development and production
