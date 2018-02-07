@@ -25,22 +25,17 @@ Please download the right one for your version of Ruby:
 * Ruby 2.0.0 to 2.3.x (32bits): *mingw64-32-4.7.2*
 * Ruby 2.0.0 to 2.3.x (64bits): *mingw64-64-4.7.2*
 
-### Speed and Compatibility
+### Speed and Convenience
 
-RubyInstaller is compiled with MinGW-w64 which offers improved speed and better RubyGem compatibility.
+RubyInstaller is compiled with the latest GCC at the release date.
+The installed ruby is a native Windows application but combines this with the rich UNIX toolset of [MSYS2](http://www.msys2.org) and the [large repository of MINGW libraries](https://github.com/Alexpux/MINGW-packages).
 
-### Convenience
-
-No additional software is needed if you want to use the executable versions of the RubyInstaller.
-If you would like to use the 7-Zip archived versions or the Ruby documentation, you will need to download 7-Zip from the [7-Zip website](http://www.7-zip.org/).
+Find more about RubyInstaller and it's alternatives [here]({{ "/about/alternatives" | relative_url }}).
 
 ### Documentation
 
 The Ruby core and standard library documentation is part of the installation.
 We also recommend the [online documentation](https://ruby-doc.org/) or HTML version downloadable [from ruby-doc.org](https://ruby-doc.org/downloads/).
-
-As an added convenience for Windows users, we’ve made available the Ruby Core and Standard Library documentation in Compiled HTML Help (CHM) format.
-It can be downloaded separately for older Ruby versions.
 
 ### Support
 
