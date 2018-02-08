@@ -30,7 +30,7 @@ Please download the right one for your version of Ruby:
 RubyInstaller is compiled with the latest GCC at the release date.
 The installed ruby is a native Windows application but combines this with the rich UNIX toolset of [MSYS2](http://www.msys2.org) and the [large repository of MINGW libraries](https://github.com/Alexpux/MINGW-packages).
 
-Find more about RubyInstaller and it's alternatives [here]({{ "/about/alternatives" | relative_url }}).
+Find more about RubyInstaller and it's alternatives [here]({{ "/about/comparison" | relative_url }}).
 
 ### Documentation
 

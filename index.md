@@ -13,7 +13,7 @@ And [Ruby](https://www.ruby-lang.org) is a [great language](http://www.bestprogr
 It's suitable for small scripts as well as large applications.
 RubyInstaller combines the possibilities of native Windows programs with the rich UNIX toolset of [MSYS2](http://www.msys2.org) and the [large repository of MINGW libraries](https://github.com/Alexpux/MINGW-packages).
 It is a great foundation to use Ruby for development and production
-[... Read more]({{ "/about/alternatives" | relative_url }})
+[... Read more]({{ "/about/comparison" | relative_url }})
 
 ## Learn Ruby
 
