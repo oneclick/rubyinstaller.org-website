@@ -18,7 +18,7 @@ Not sure what version to download? Please read the right column for recommendati
 </ul>
 
 
-### Ruby Core & Standard Library Documentation
+### Ruby Core & Standard Library Documentation (old)
 
 <ul>
   {% assign dls = (site.data.downloads | where: "filetype", "rubychm7z" | where: "show", "true") %}
@@ -26,7 +26,7 @@ Not sure what version to download? Please read the right column for recommendati
 </ul>
 
 
-### Development Kit
+### Development Kit (old)
 
 #### For use with Ruby 2.0 to 2.3 (32bits version only):
 
