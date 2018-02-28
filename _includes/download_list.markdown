@@ -42,8 +42,3 @@ Not sure what version to download? Please read the right column for recommendati
   {% assign dls = (site.data.downloads | where: "filetype", "devkitsfx" | where: "show", "64") %}
   {% include downloadlinks.html dls=dls %}
 </ul>
-
-##  MD5 & SHA256 Checksums
-
-For MD5 and SHA256 checksums of available downloads please check the corresponding **package/version**
-_files tab_ or _release notes_ at the [RubyInstaller repository on Bintray](https://bintray.com/oneclick/rubyinstaller).
