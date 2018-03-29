@@ -5,6 +5,7 @@ author: Lars Kanis
 ---
 RubyInstaller-2.5.1-1 and RubyInstaller-2.4.4-1 are released.
 These are maintenance releases with some bug and several security fixes. See [ruby-2.4.4 release notes](https://www.ruby-lang.org/en/news/2018/03/28/ruby-2-4-4-released/) and [ruby-2.5.1 release notes](https://www.ruby-lang.org/en/news/2018/03/28/ruby-2-5-1-released/).
+In addition bundled OpenSSL versions are updated to 1.0.2o and 1.1.0h.
 
 Starting with this release we provide two flavors of installers: RubyInstaller with and without MSYS2 Devkit.
 
