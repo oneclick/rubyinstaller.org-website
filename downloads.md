@@ -5,16 +5,29 @@ permalink: /downloads/
 ---
 ### Which version to download?
 
-If you don’t know what version to install and you’re getting started with Ruby, we recommend you use Ruby <b>2.4.X</b> as x64 or x86 installer.
-These provide a stable language and the biggest number of compatible gems.
-However, not all gems are maintained. Some older packages may not be compatible with newer versions of Ruby and RubyInstaller.
+If you don’t know what version to install and you’re getting started with Ruby, we recommend you use <b>Ruby+Devkit 2.4.X</b> as x64 or x86 installers.
+These provide the biggest number of compatible gems and installs MSYS2-Devkit alongside Ruby, so that gems with C-extensions can be compiled immediately.
 
-In any case, if you find gems that are not compatible, you're encouraged to notify the gem author or even better open pull requests about this issue.
+
+### How to update?
+
+Ruby can be updated to the latest patch version (e.g. from 2.4.1 to 2.4.4) by running the new installer version.
+Installed gems are not overwritten and will work with the new version without re-installation.
+It's sufficient to use the RubyInstaller without Devkit for update installations.
+The Devkit can be updated separately per `ridk install` command.
+
+If the new Ruby version is from a different stable branch, then please use a new target directory for installation.
+That is to say a previous RubyInstaller-2.4.x installation <b>should not</b> be updated by installing RubyInstaller-2.5.x into the same directory.
+This is because gems with C extensions are not compatible between ruby-2.4 and 2.5.
+
 
 ### Which Development Kit?
 
-Starting with Ruby 2.4.0 we use the [MSYS2 toolkit](http://www.msys2.org) as our development kit.
-It is required to build native C/C++ extensions for Ruby and is necessary for [Ruby on Rails](http://rubyonrails.org/).
+Starting with Ruby 2.4.0 we use the [MSYS2 toolchain](http://www.msys2.org) as our development kit.
+When using the <b>Ruby+Devkit</b> installer version, it is a selectable component, so that no additional downloads/installs are required.
+
+When using the Ruby without Devkit version, the MSYS2 Devkit can be installed separately by running `ridk install`.
+MSYS2 is required to build native C/C++ extensions for Ruby and is necessary for [Ruby on Rails](http://rubyonrails.org/).
 Moreover it allows the download and usage of [hundreds of Open Source libraries](https://github.com/Alexpux/MINGW-packages) which Ruby gems can depend on.
 
 Down this page, several and <em>other</em> versions of Development Kits (DevKit) are listed.

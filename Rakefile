@@ -46,13 +46,14 @@ end
 
 def asset_to_attrs(asset)
   filetype = case asset.name
+    when /rubyinstaller-devkit.*\.exe$/i then "ridkexe"
     when /rubyinstaller.*\.exe$/i then "rubyinstallerexe"
     when /rubyinstaller.*\.7z$/i then "rubyinstaller7z"
     else raise "unknown asset name #{asset.name.inspect}"
   end
 
   name = case asset.name
-    when /rubyinstaller-([-\d\.]+)-([x\d]+)\.(7z|exe)$/ then "Ruby #{$1} (#{$2})"
+    when /rubyinstaller(-devkit)?-([-\d\.]+)-([x\d]+)\.(7z|exe)$/ then $1 ? "Ruby+Devkit #{$2} (#{$3})" : "Ruby #{$2} (#{$3})"
     else raise "unknown asset name #{asset.name.inspect}"
   end
 
