@@ -21,6 +21,6 @@ Installation of the Devkit can also be deselected - the installer behaves in thi
 As described in the [Download section]({{ "/downloads/" | relative_url }}), future updates to MSYS2 can be done per `ridk install` command, while updates to Ruby can be done through the RubyInstaller without Devkit.
 
 Please note: MSYS2 can still be used as a separate installation and can still be shared between several ruby versions.
-
+See also the [FAQ page](https://github.com/oneclick/rubyinstaller2/wiki/FAQ#user-content-silent-install) for additional install options.
 
 All binaries are available in the [Download section]({{ "/downloads/" | relative_url }})!
