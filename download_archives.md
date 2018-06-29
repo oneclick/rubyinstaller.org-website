@@ -7,6 +7,13 @@ permalink: /downloads/archives/
 <div>
 <div class="span-8 border" markdown="1">
 
+## Ruby+Devkit Installers
+
+<ul>
+  {% assign dls = (site.data.downloads | where: "filetype", "ridkexe") %}
+  {% include downloadlinks.html dls=dls %}
+</ul>
+
 ## RubyInstallers
 
 <ul>
