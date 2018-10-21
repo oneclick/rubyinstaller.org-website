@@ -5,7 +5,7 @@ permalink: /downloads/
 ---
 ### Which version to download?
 
-If you don’t know what version to install and you’re getting started with Ruby, we recommend you use <b>Ruby+Devkit 2.4.X</b> as x64 or x86 installers.
+If you don’t know what version to install and you’re getting started with Ruby, we recommend you use <b>Ruby+Devkit 2.5.X</b> as x64 or x86 installers.
 These provide the biggest number of compatible gems and installs MSYS2-Devkit alongside Ruby, so that gems with C-extensions can be compiled immediately.
 
 
