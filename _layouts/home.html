@@ -8,14 +8,14 @@ layout: default
     <div class="home">
       <div class="span-16">
         <div id="left_content">
-          <h2>Latest News</h2>
+          <h2>Новости</h2>
 
           {% for post in site.posts limit:5 %}
               <div class="news_item">
                 <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
                 {{ post.excerpt }}
 
-                <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span> <a href="{{ post.url | relative_url }}" class="more">Read full article</a>
+                <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span> <a href="{{ post.url | relative_url }}" class="more">Читать далее</a>
               </div>
           {% endfor %}
         </div>
@@ -29,16 +29,16 @@ layout: default
 
       <div id="fastbar" class="container clear">
         <div id="contribute" class="fastlink span-8">
-          <h3><a href="https://github.com/oneclick/rubyinstaller/wiki/How-to-Contribute/">Contribute</a></h3>
-          <p>How can I help the project?</p>
+          <h3><a href="https://github.com/oneclick/rubyinstaller/wiki/How-to-Contribute/">Внести вклад</a></h3>
+          <p>Как я могу помочь проекту?</p>
         </div>
         <div id="mailing" class="fastlink span-8">
-          <h3> <a href="https://groups.google.com/group/rubyinstaller">Mailing List</a></h3>
-          <p>How can I stay up-to-date? </p>
+          <h3> <a href="https://groups.google.com/group/rubyinstaller">Рассылка</a></h3>
+          <p>Как мне оставаться в курсе событий?</p>
         </div>
         <div id="questions" class="fastlink span-8 last">
           <h3><a href="https://github.com/oneclick/rubyinstaller2/wiki/faq">FAQ</a></h3>
-          <p>Frequently Asked Questions.</p>
+          <p>Часто задаваемые вопросы</p>
         </div>
       </div>
     </div>

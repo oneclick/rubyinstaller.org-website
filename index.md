@@ -6,21 +6,25 @@ layout: home
 title: RubyInstaller for Windows
 ---
 
-## Is RubyInstaller for you?
+## Подойдёт ли мне RubyInstaller?
 
-RubyInstaller is the easiest and most used Ruby environment on Windows.
-And [Ruby](https://www.ruby-lang.org) is a [great language](http://www.bestprogramminglanguagefor.me/why-learn-ruby) for beginners as well as professionals.
-It's suitable for small scripts as well as large applications.
-RubyInstaller combines the possibilities of native Windows programs with the rich UNIX toolset of [MSYS2](http://www.msys2.org) and the [large repository of MINGW libraries](https://github.com/Alexpux/MINGW-packages).
-It is a great foundation to use Ruby for development and production
-[... Read more]({{ "/about/comparison" | relative_url }})
+RubyInstaller — это простое и популярное Windows-окружение для Ruby.
+А [Ruby](https://www.ruby-lang.org) — [выразтельный язык](http://www.bestprogramminglanguagefor.me/why-learn-ruby), который подходит как для новичков, так и для продвинутых разработчиков;
+как для небольших скриптов, так и для сложных приложений.
+RubyInstaller соединяет возможности стандартных виндоусовских программ с функциональным дистрибутивом [MSYS2](http://www.msys2.org) и [MINGW-библиотеками](https://github.com/Alexpux/MINGW-packages).
+Это отличный фундамент для разработки на языке Ruby и деплоя
+[... Читать далее]({{ "/about/comparison" | relative_url }})
 
-## Learn Ruby
+## Изучай Ruby
 
-### [Online Ruby Programming Course](http://pragmaticstudio.com/ruby)
+### [Онлайн-курс программирования на Ruby](http://pragmaticstudio.com/ruby)
 
-If you're new to Ruby, check out this online course from The Pragmatic Studio to learn all the fundamentals of object-oriented programming with Ruby.
+Курс для новеньких от сайта Pragmatic Studio: самое фундаментальное о Ruby и объектно-ориентированном программировании.
 
-### [Online Rails Programming Course](http://pragmaticstudio.com/rails)
+### [Онлайн-курс Rails-разработки](http://pragmaticstudio.com/rails)
 
-If you're looking to create Ruby on Rails web apps, you'll learn how to build a complete Rails 4 app step-by-step in this online course also from The Pragmatic Studio.
+Курс от Pragmatic Studio для тех, кто хочет создавать сложные веб-приложеня на Rails 4.
+
+### [Телеграм-чат сайта rubyrush.ru](https://t.me/rubyrush)
+
+Программирование на Руби для новичков. Научись настоящему программированию бесплатно, без регистрации и смс :)

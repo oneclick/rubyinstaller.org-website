@@ -5,3 +5,4 @@ _releases/*.exe
 _releases/*.7z
 _releases/*.asc
 .token.yml
+.idea
