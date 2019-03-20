@@ -1,13 +1,16 @@
 ---
 layout: about
-titel: Introduction
+titel: О RubyInstaller
 permalink: /about/
 order: 10
 ---
-## Introduction to RubyInstaller
+## О RubyInstaller
 
-The RubyInstaller project provides a self-contained Windows-based installer that contains a Ruby language execution environment, a baseline set of required RubyGems and extensions, and integrates into a MSYS2 installation.
+RubyInstaller — это автономный установщик, который работает в ОС Windows, содержит язык программирования Ruby,
+среду выполнения для него, базовый набор гемов и расширений и встраивается в установку MSYS2.
 
-To **install Ruby**, check [Download section]({{ "/downloads" | relative_url }}), choose the version you would like, and click on the .exe link (under the name of the version) to download the installer. Use Windows Explorer to navigate to where you saved the .exe file and double-click on it to run the installer.
+Чтобы **установить Ruby**, перейдите в [раздел загрузки]({{ "/downloads" | relative_url }}), выберите подходящую версию
+и кликните на ссылку для загрузки установщика (.exe файл). Используйте проводник Windows, чтобы найти загруженный
+файл, и кликните по нему два раза, чтобы начать установку.
 
-The Ruby Installer is currently available only for the Windows platform.
+Ruby Installer пока доступен только для Windows.

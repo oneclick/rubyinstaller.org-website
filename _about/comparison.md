@@ -1,35 +1,38 @@
 ---
 layout: about
-titel: Is it for you?
+titel: Подойдёт ли мне?
 permalink: /about/comparison/
 order: 15
 ---
-## Is it for you?
+## Подойдёт ли мне RubyInstaller?
 
-RubyInstaller is the easiest and most used Ruby environment on Windows.
-And [Ruby](https://www.ruby-lang.org) is a [great language](http://www.bestprogramminglanguagefor.me/why-learn-ruby) for beginners as well as professionals.
-It's suitable for small scripts as well as large applications.
-RubyInstaller combines the possibilities of native Windows programs with the rich UNIX toolset of [MSYS2](http://www.msys2.org) and the [large repository of MINGW libraries](https://github.com/Alexpux/MINGW-packages).
-It is a great foundation to use Ruby for development and production, especially if you want to use Ruby for day-to-day scripting or require access to Windows resources like hardware devices, DLLs, OLE, graphical user interfaces or GPU.
+RubyInstaller — это простое и популярное Ruby-окружение для Windows. [Ruby](https://www.ruby-lang.org) — 
+[выразительный язык](http://www.bestprogramminglanguagefor.me/why-learn-ruby), который подходит как для новичков, 
+так и для продвинутых разработчиков; как для небольших скриптов, так и для сложных приложений. RubyInstaller 
+соединяет возможности стандартных виндоусовских программ с функциональным дистрибутивом [MSYS2](http://www.msys2.org) 
+и [MINGW-библиотеками](https://github.com/Alexpux/MINGW-packages). Это отличный фундамент для ежедневной разработки 
+на языке Ruby и деплоя, особенно если вам нужен доступ к ресурсам ОС, например, к физическим устройствам, DLLs, 
+OLE, пользовательскому интерфейсу или графическому процессору.
 
-### Comparison
+### Сравнение с другими окружениями
 
-Although the Ruby community is continuously working to get Ruby on Windows as smooth as possible, it's still slower and less convenient compared to Linux or MacOS.
-Some of the shortcomings are due to Windows operating system internals (like poor shell support) and others are due to the fact that many Ruby developers prefer a UNIX style system.
+Хотя сообщество Ruby продолжает трудиться над тем, чтобы версия языка для Windows была настолько стабильна, насколько возможно,
+она всё равно более медленная и менее удобная по сравнению с версиями для Linux или MacOS. И из-за 
+некоторых проблем со внутренними компонентами Windows (например, плохая поддержка оболочки ОС и другие) многие 
+Ruby-разработчики предпочитают работать с UNIX-подобными системами.
 
-[**Ubuntu Linux**](https://ubuntu.com) or [**MacOS**](https://www.apple.com/de/macos/what-is/) are great as Ruby development platforms.
-They provide the best overall Ruby experience.
-If you use Ruby for a larger project you might consider moving to one of these operating systems.
-Ruby is strong at cross platform development, so that it's easy to use Ruby on Linux for development and RubyInstaller on Windows in production or vice versa.
+[**Ubuntu Linux**](https://ubuntu.com) или [**MacOS**](https://www.apple.com/de/macos/what-is/) — это прекрасные платформы
+для разработки на языке Руби. Поэтому если вы будете использовать его для крупных проектов, то, вероятно, решите перейти
+на одну из этих ОС. Сильная сторона Ruby — кросс-платформенная разработка: используйте Ruby на Linux для разработки 
+и RubyInstaller на Windows для продакшена и наоборот.
 
-[**Windows subsystem for Linux**](https://docs.microsoft.com/de-de/windows/wsl/about) provides a Linux environment on top of Windows.
-Most of the development tools available for Linux can be used in WSL.
-It is well suited for web development with rails, provides network and filesystem access but access to hardware devices or interaction with native Windows software is very limited.
-Ruby can be installed from the selected Linux distribution (typically Ubuntu) or by [rvm](https://rvm.io) or a similar ruby version manager.
-WSL is not suitable for production use.
+[**Windows subsystem for Linux**](https://docs.microsoft.com/de-de/windows/wsl/about) (WSL) создаёт Linux окружение на базе Windows.
+Большинство инструментов разработки Linux можно использовать и в WSL. Она пригодна для веб-программирования на Rails,
+обеспечивает доступ к сети и файловой системе. Однако возможности взаимодействия с физическими устройствами или 
+родным ПО Windows очень ограничены. Установите Ruby из какого-либо дистрибутива Linux (обычно Ubuntu) или с помощью 
+менеджера версий, например, [rvm](https://rvm.io). WSL не подходит для продакшена.
 
-[**Cygwin**](https://www.cygwin.com/) is another alternative to RubyInstaller.
-It provides a POSIX environment on Windows.
-Ruby can be installed among many other tools, but can not execute Linux binaries directly (in contrast to WSL).
-Cygwin offers only little advantages over RubyInstaller like a better shell and universal UTF-8 support.
-But it is slower and it's difficult to use Windows native resources.
+[**Cygwin**](https://www.cygwin.com/) — ещё одна альтернатива нашему проекту. Он создаёт POSIX окружение,
+в котором можно установить Ruby, но сам Ruby не сможет напрямую выполнить бинарники Linux (в отличие от WSL). У cygwin 
+есть небольшие преимущества перед RubyInstaller: например, более хорошая поддержка оболочки и юникода. Но он медленнее 
+и хуже работает со встроенными ресурсами Windows.

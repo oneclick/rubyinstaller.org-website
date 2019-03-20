@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "RubyInstaller 2.5.3-1 and 2.4.5-1 with code signature released"
+title:  "Релиз RubyInstaller 2.5.3-1 и 2.4.5-1 с подписью исполняемого кода"
 author: Lars Kanis
 ---
-RubyInstaller-2.5.3-1 and RubyInstaller-2.4.5-1 are released.
-These are maintenance releases with bug and security fixes.
-See [ruby-2.4.5 release notes](https://www.ruby-lang.org/en/news/2018/10/17/ruby-2-4-5-released/) and [ruby-2.5.2 release notes](https://www.ruby-lang.org/en/news/2018/10/17/ruby-2-5-2-released/).
-Bundled OpenSSL versions are updated to 1.0.2p and 1.1.1.
+Вышли релизы RubyInstaller-2.5.3-1 и RubyInstaller-2.4.5-1. Мы исправили основные баги и проблемы с безопасностью.
+Смотрите список изменений [ruby-2.4.5](https://www.ruby-lang.org/en/news/2018/10/17/ruby-2-4-5-released/) и 
+[ruby-2.5.2](https://www.ruby-lang.org/en/news/2018/10/17/ruby-2-5-2-released/). Пакет версий библиотеки OpenSSL 
+обновлён до 1.0.2p и 1.1.1.
 
-The installer executables are now signed with a Microsoft trusted certificate of "Open Source Developer Lars Kanis".
-This should give some confidence about the downloaded files and should soften the disposition of anti virus products.
+Исполняемые установочные файлы теперь подписаны сертификатом «Open Source Developer Lars Kanis» от Microsoft.
+Можете быть уверенными, что загружаемые файлы безопасны и на них не будут реагировать антивирусные программы.
 
-More details are provided in the [CHANGELOG](https://github.com/oneclick/rubyinstaller2/blob/16e7aa4159fab5413b01ed1ca9917f9e39500303/CHANGELOG.md#rubyinstaller-253-1---2018-10-21).
-All binaries are available in the [Download section]({{ "/downloads/" | relative_url }})!
+Больше деталей в [CHANGELOG](https://github.com/oneclick/rubyinstaller2/blob/16e7aa4159fab5413b01ed1ca9917f9e39500303/CHANGELOG.md#rubyinstaller-253-1---2018-10-21).
+Все бинарники можно [скачать тут]({{ "/downloads/" | relative_url }})!
