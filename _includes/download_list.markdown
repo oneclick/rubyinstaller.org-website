@@ -5,14 +5,14 @@ Not sure what version to download? Please read the right column for recommendati
 ###  with Devkit
 
 <ul>
-  {% assign dls = (site.data.downloads | where: "filetype", "ridkexe" | where: "show", "true") %}
+  {% assign dls = site.data.downloads | where: "filetype", "ridkexe" | where: "show", "true" %}
   {% include downloadlinks.html dls=dls %}
 </ul>
 
 ### without Devkit
 
 <ul>
-  {% assign dls = (site.data.downloads | where: "filetype", "rubyinstallerexe" | where: "show", "true") %}
+  {% assign dls = site.data.downloads | where: "filetype", "rubyinstallerexe" | where: "show", "true" %}
   {% include downloadlinks.html dls=dls %}
 </ul>
 
@@ -21,7 +21,7 @@ Not sure what version to download? Please read the right column for recommendati
 ### 7-Zip Archives
 
 <ul>
-  {% assign dls = (site.data.downloads | where: "filetype", "rubyinstaller7z" | where: "show", "true") %}
+  {% assign dls = site.data.downloads | where: "filetype", "rubyinstaller7z" | where: "show", "true" %}
   {% include downloadlinks.html dls=dls %}
 </ul>
 
@@ -29,7 +29,7 @@ Not sure what version to download? Please read the right column for recommendati
 ### Ruby Core & Standard Library Documentation (old)
 
 <ul>
-  {% assign dls = (site.data.downloads | where: "filetype", "rubychm7z" | where: "show", "true") %}
+  {% assign dls = site.data.downloads | where: "filetype", "rubychm7z" | where: "show", "true" %}
   {% include downloadlinks.html dls=dls %}
 </ul>
 
@@ -39,7 +39,7 @@ Not sure what version to download? Please read the right column for recommendati
 #### For use with Ruby 2.0 to 2.3 (32bits version only):
 
 <ul>
-  {% assign dls = (site.data.downloads | where: "filetype", "devkitsfx" | where: "show", "32") %}
+  {% assign dls = site.data.downloads | where: "filetype", "devkitsfx" | where: "show", "32" %}
   {% include downloadlinks.html dls=dls %}
 </ul>
 
@@ -47,6 +47,6 @@ Not sure what version to download? Please read the right column for recommendati
 #### For use with Ruby 2.0 to 2.3 (x64 - 64bits only)
 
 <ul>
-  {% assign dls = (site.data.downloads | where: "filetype", "devkitsfx" | where: "show", "64") %}
+  {% assign dls = site.data.downloads | where: "filetype", "devkitsfx" | where: "show", "64" %}
   {% include downloadlinks.html dls=dls %}
 </ul>

@@ -10,14 +10,14 @@ permalink: /downloads/archives/
 ## Ruby+Devkit Installers
 
 <ul>
-  {% assign dls = (site.data.downloads | where: "filetype", "ridkexe") %}
+  {% assign dls = site.data.downloads | where: "filetype", "ridkexe" %}
   {% include downloadlinks.html dls=dls %}
 </ul>
 
 ## RubyInstallers
 
 <ul>
-  {% assign dls = (site.data.downloads | where: "filetype", "rubyinstallerexe") %}
+  {% assign dls = site.data.downloads | where: "filetype", "rubyinstallerexe" %}
   {% include downloadlinks.html dls=dls %}
 </ul>
 
@@ -27,7 +27,7 @@ permalink: /downloads/archives/
 
 ## Archives
 <ul>
-  {% assign dls = (site.data.downloads | where: "filetype", "rubyinstaller7z") %}
+  {% assign dls = site.data.downloads | where: "filetype", "rubyinstaller7z" %}
   {% include downloadlinks.html dls=dls %}
 </ul>
 </div>
@@ -36,13 +36,13 @@ permalink: /downloads/archives/
 <div class="span-8 last" markdown="1">
 ## Documentation
 <ul>
-  {% assign dls = (site.data.downloads | where: "filetype", "rubychm7z") %}
+  {% assign dls = site.data.downloads | where: "filetype", "rubychm7z" %}
   {% include downloadlinks.html dls=dls %}
 </ul>
 
 ## DevKits
 <ul>
-  {% assign dls = (site.data.downloads | where: "filetype", "devkitsfx") %}
+  {% assign dls = site.data.downloads | where: "filetype", "devkitsfx" %}
   {% include downloadlinks.html dls=dls %}
 </ul>
 </div>
