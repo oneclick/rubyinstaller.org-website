@@ -187,3 +187,21 @@ namespace "release" do
     end
   end
 end
+
+namespace "signtool" do
+  desc "List keys from PKCS11 signature stick"
+  task "list-keys" do
+    require "pkcs11"
+    require "openssl"
+
+    pkcs11 = PKCS11.open("_codesign/certum/sc30pkcs11-2.0.0.39.r2-MS.so")
+    s = pkcs11.active_slots.last.open
+    s.login(:USER, sign_card_password.to_s)
+    s.find_objects(:CLASS => PKCS11::CKO_PRIVATE_KEY).to_enum.with_index do |obj, kidx|
+      puts "========== Key #{kidx} =========="
+      puts "ID: #{obj[:ID].unpack("H*")[0]}"
+      puts "SUBJECT: #{OpenSSL::X509::Name.new(obj[:SUBJECT])}" if obj[:SUBJECT]
+      puts "LABEL: #{obj[:LABEL]}"
+    end
+  end
+end
