@@ -135,6 +135,7 @@ def asset_to_attrs(asset)
 end
 
 namespace "release" do
+  desc "Fill downloads.yml with missing releases retrieved from github"
   task "add" do
     filerefs = read_filerefs
     new_assets = new_github_assets(filerefs: filerefs)
@@ -146,6 +147,7 @@ namespace "release" do
     write_filerefs(filerefs)
   end
 
+  desc "Add a code signature to all downloaded exe files and overwrite it on github"
   task "sign" do
     filerefs = read_filerefs
     filerefs.select do |fr|
