@@ -23,6 +23,14 @@ This is because gems with C extensions are not compatible between ruby-2.5 and 2
 Find more in the [FAQ](https://github.com/oneclick/rubyinstaller2/wiki/FAQ#user-content-update-install).
 
 
+### RubyInstaller-head
+
+RubyInstaller-head is a daily updated version of the [Ruby development branch](https://github.com/ruby/ruby/).
+It can be used for continuous integration tests (CI) on your gems or applications, so that you’re prepared for upcoming changes to the ruby core.
+Builds are available on stable download URIs in the [github release section](https://github.com/oneclick/rubyinstaller2/releases/tag/rubyinstaller-head).
+They can be easily [integrated into Appveyor](https://github.com/oneclick/rubyinstaller2/wiki/For-gem-developers#user-content-appveyor).
+
+
 ### Which Development Kit?
 
 Ruby 2.4.0 and newer use the [MSYS2 toolchain](http://www.msys2.org) as development kit.
