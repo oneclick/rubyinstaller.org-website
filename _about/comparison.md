@@ -22,7 +22,7 @@ They provide the best overall Ruby experience.
 If you use Ruby for a larger project you might consider moving to one of these operating systems.
 Ruby is strong at cross platform development, so that it's easy to use Ruby on Linux for development and RubyInstaller on Windows in production or vice versa.
 
-[**Windows subsystem for Linux**](https://docs.microsoft.com/de-de/windows/wsl/about) provides a Linux environment on top of Windows.
+[**Windows subsystem for Linux**](https://docs.microsoft.com/en-us/windows/wsl/about) provides a Linux environment on top of Windows.
 Most of the development tools available for Linux can be used in WSL.
 It is well suited for web development with rails, provides network and filesystem access but access to hardware devices or interaction with native Windows software is very limited.
 Ruby can be installed from the selected Linux distribution (typically Ubuntu) or by [rvm](https://rvm.io) or a similar ruby version manager.
