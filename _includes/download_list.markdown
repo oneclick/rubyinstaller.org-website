@@ -24,29 +24,3 @@ Not sure what version to download? Please read the right column for recommendati
   {% assign dls = site.data.downloads | where: "filetype", "rubyinstaller7z" | where: "show", "true" %}
   {% include downloadlinks.html dls=dls %}
 </ul>
-
-
-### Ruby Core & Standard Library Documentation (old)
-
-<ul>
-  {% assign dls = site.data.downloads | where: "filetype", "rubychm7z" | where: "show", "true" %}
-  {% include downloadlinks.html dls=dls %}
-</ul>
-
-
-### Development Kit (old)
-
-#### For use with Ruby 2.0 to 2.3 (32bits version only):
-
-<ul>
-  {% assign dls = site.data.downloads | where: "filetype", "devkitsfx" | where: "show", "32" %}
-  {% include downloadlinks.html dls=dls %}
-</ul>
-
-
-#### For use with Ruby 2.0 to 2.3 (x64 - 64bits only)
-
-<ul>
-  {% assign dls = site.data.downloads | where: "filetype", "devkitsfx" | where: "show", "64" %}
-  {% include downloadlinks.html dls=dls %}
-</ul>

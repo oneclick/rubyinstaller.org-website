@@ -877,12 +877,10 @@
 - filetype: rubyinstallerexe
   href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.3.3.exe
   name: Ruby 2.3.3
-  show: true
   sha256: 43110f9bcd8a067d69409507cad6a43f1fcf05e8bd64d096dd9df47475de50f3
 - filetype: rubyinstallerexe
   href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.3.3-x64.exe
   name: Ruby 2.3.3 (x64)
-  show: true
   sha256: 3d0a4ad06c5503e1cb88827443593969e689ac96b5161140b08f0becb7b792cf
 - filetype: rubyinstallerexe
   href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.3.1.exe
@@ -903,12 +901,10 @@
 - filetype: rubyinstallerexe
   href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.2.6.exe
   name: Ruby 2.2.6
-  show: true
   sha256: b53bb768aea3946178149a804201e68ddc034ba5140f2488c2520da24f76e3cc
 - filetype: rubyinstallerexe
   href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.2.6-x64.exe
   name: Ruby 2.2.6 (x64)
-  show: true
   sha256: d1205b461f15f9dc6ad1eac08bf5a77dd2bce3a37095e5f09ac6e45bc334c198
 - filetype: rubyinstallerexe
   href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.2.5.exe
@@ -953,12 +949,10 @@
 - filetype: rubyinstallerexe
   href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.1.9.exe
   name: Ruby 2.1.9
-  show: true
   sha256: 946101ebbe729f1a26f9836ac7485a7449a0ea3c7325c973ff2a3548edc2e488
 - filetype: rubyinstallerexe
   href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.1.9-x64.exe
   name: Ruby 2.1.9 (x64)
-  show: true
   sha256: aadd8fe9ff1ea2cda58019a3c48c83206e8016e265c19d746493ad26edd89987
 - filetype: rubyinstallerexe
   href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.1.8.exe
@@ -1201,12 +1195,10 @@
 - filetype: rubyinstaller7z
   href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.3.3-i386-mingw32.7z
   name: Ruby 2.3.3
-  show: true
   sha256: 5022ef928f0296abede90f1cf4346250d69f6298c648cad6279938f64eca29fa
 - filetype: rubyinstaller7z
   href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.3.3-x64-mingw32.7z
   name: Ruby 2.3.3 (x64)
-  show: true
   sha256: 92b97ac3eb380f3f1b7b655a328668cf02b2846ad3c20135bd51f45f4c1cbfc8
 - filetype: rubyinstaller7z
   href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.3.1-i386-mingw32.7z
@@ -1227,12 +1219,10 @@
 - filetype: rubyinstaller7z
   href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.2.6-i386-mingw32.7z
   name: Ruby 2.2.6
-  show: true
   sha256: cc9a104fb74ec45523b0e40ac66225ec8a3e66b2a6fc0c46f1adc691cb14e3cb
 - filetype: rubyinstaller7z
   href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.2.6-x64-mingw32.7z
   name: Ruby 2.2.6 (x64)
-  show: true
   sha256: b9d904209277f0ae005890046053d67fd7841635a4f507c1e8d88f1d25a37586
 - filetype: rubyinstaller7z
   href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.2.5-i386-mingw32.7z
@@ -1277,12 +1267,10 @@
 - filetype: rubyinstaller7z
   href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.9-i386-mingw32.7z
   name: Ruby 2.1.9
-  show: true
   sha256: f8a28e27ebd502a10b8683377bd71dcc1b49b5269cee25698e11cfe0395640dd
 - filetype: rubyinstaller7z
   href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.9-x64-mingw32.7z
   name: Ruby 2.1.9 (x64)
-  show: true
   sha256: abc6f5335d7676598ea9bb7fe70ed9845e68720dde987264eae0bc6ea037c726
 - filetype: rubyinstaller7z
   href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.8-i386-mingw32.7z
@@ -1525,7 +1513,6 @@
 - filetype: rubychm7z
   href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.3.3-doc-chm.7z
   name: Ruby 2.3.3 documentation (CHM format)
-  show: true
   sha256: 6e011a18ffa34b40301be3c2dfffa81df3012e98e0e93575052b8d5314f45ebe
 - filetype: rubychm7z
   href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.3.1-doc-chm.7z
@@ -1538,7 +1525,6 @@
 - filetype: rubychm7z
   href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.2.6-doc-chm.7z
   name: Ruby 2.2.6 documentation (CHM format)
-  show: true
   sha256: abccdb0fc70dc187391aba1fb59869523eee68f3b752f53775f8a481c3481812
 - filetype: rubychm7z
   href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.2.5-doc-chm.7z
@@ -1563,7 +1549,6 @@
 - filetype: rubychm7z
   href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.9-doc-chm.7z
   name: Ruby 2.1.9 documentation (CHM format)
-  show: true
   sha256: 165032fb247b57f27095b643fc1bd7fa29de71381dc1172a00952a8e80ff55b0
 - filetype: rubychm7z
   href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.8-doc-chm.7z
@@ -1593,7 +1578,6 @@
 - filetype: rubychm7z
   href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p648-doc-chm.7z
   name: Ruby 2.0.0-p648 documentation (CHM format)
-  show: true
   sha256: 42e37920515318c371ec53b5b43e1b11e979d6f5773fa42b1b69233a6aec4edf
 - filetype: rubychm7z
   href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p647-doc-chm.7z
