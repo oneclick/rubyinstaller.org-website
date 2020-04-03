@@ -31,11 +31,11 @@ Builds are available on stable download URIs in the [github release section](htt
 They can be easily [integrated into Appveyor](https://github.com/oneclick/rubyinstaller2/wiki/For-gem-developers#user-content-appveyor).
 
 
-### Which Development Kit?
+### With Development Kit?
 
-Ruby 2.4.0 and newer use the [MSYS2 toolchain](http://www.msys2.org) as development kit.
+RubyInstaller uses the [MSYS2 toolchain](http://www.msys2.org) as development kit.
 It is bundled into the <b>Ruby+Devkit</b> installer version as a selectable component, so that no additional downloads/installs are required.
-When using the Ruby without Devkit version, the MSYS2 Devkit can be installed separately by running `ridk install`.
+It's possible to [share one Devkit](https://github.com/oneclick/rubyinstaller2/wiki/FAQ#user-content-shared-devkit) for multiple Ruby versions.
 
 MSYS2 is required to build native C/C++ extensions for Ruby and is necessary for [Ruby on Rails](http://rubyonrails.org/).
 Moreover it allows the download and usage of [hundreds of Open Source libraries](https://github.com/Alexpux/MINGW-packages) which Ruby gems can depend on.
