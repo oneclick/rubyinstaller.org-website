@@ -4,7 +4,7 @@ titel: Project contributors
 permalink: /about/contributors/
 order: 20
 ---
-## Thanks to (alphabetic)
+## Thanks (alphabetically) to:
 
 * Justin Baker
 * Daniel Berger
