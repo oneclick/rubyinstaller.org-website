@@ -50,7 +50,7 @@ See more in the [Wiki](https://github.com/oneclick/rubyinstaller2/wiki/The-ridk-
 RubyInstaller is compiled with the latest GCC at the release date.
 The installed ruby is a native Windows application but combines this with the rich UNIX toolset of [MSYS2](http://www.msys2.org) and the [large repository of MINGW libraries](https://github.com/Alexpux/MINGW-packages).
 
-Find more about RubyInstaller and it's alternatives [here]({{ "/about/comparison" | relative_url }}).
+Find more about RubyInstaller and its alternatives [here]({{ "/about/comparison" | relative_url }}).
 
 ### Documentation
 
