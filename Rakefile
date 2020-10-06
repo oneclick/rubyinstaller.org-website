@@ -67,8 +67,16 @@ def upload_github_exe_asset(fr, repo: "oneclick/rubyinstaller2")
   client.delete_release_asset(old_asset_asc.url)
 
   print "Uploading #{fname} (#{File.size(fname)} bytes) ... "
-  asset = client.upload_asset(release.url, fname, content_type: "application/vnd.microsoft.portable-executable")
-  puts "OK"
+  retries = 0
+  begin
+    asset = client.upload_asset(release.url, fname, content_type: "application/vnd.microsoft.portable-executable")
+  rescue Octokit::ServerError => err
+    raise if (retries+=1) > 2
+    puts "Retry #{retries} after error: #{err}"
+    retry
+  else
+    puts "OK"
+  end
 
   print "Uploading #{fnameasc} (#{File.size(fnameasc)} bytes) ... "
   asset_asc = client.upload_asset(release.url, fnameasc, content_type: "application/pgp-signature")
