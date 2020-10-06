@@ -1,6 +1,6 @@
 ## RubyInstallers <a id="archive" href="{{ "/downloads/archives" | relative_url }}">Archives</a>
 
-Not sure what version to download? Please read the right column for recommendations.
+Not sure what version to download? Please read the right-hand column for recommendations.
 
 ###  with Devkit
 

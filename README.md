@@ -1,6 +1,6 @@
 # rubyinstaller.org - website
 This repository holds the source code and the content for the Jekyll based https://rubyinstaller.org website.
-The static website is built and published automatic on github after each push to the master branch of the repository.
+The static website is built and published automatically on GitHub after each push to the master branch of the repository.
 
 ## Getting Started
 We love contributions to our website.
@@ -15,7 +15,7 @@ gem install bundler
 bundle install
 ```
 
-Now you can run the jekyll generator and embedded web server:
+Now you can run the Jekyll generator and its embedded web server:
 ```sh
 jekyll serve --drafts --incremental
 ```
