@@ -24,3 +24,7 @@ Not sure what version to download? Please read the right-hand column for recomme
   {% assign dls = site.data.downloads | where: "filetype", "rubyinstaller7z" | where: "show", "true" %}
   {% include downloadlinks.html dls=dls %}
 </ul>
+
+### PGP signature key
+
+&nbsp;&nbsp; 🔑 [ci.ri2-package-signing-key.asc]({{ "ci.ri2-package-signing-key.asc" | relative_url }})
