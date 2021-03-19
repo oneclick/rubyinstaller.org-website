@@ -28,3 +28,5 @@ Not sure what version to download? Please read the right-hand column for recomme
 ### PGP signature key
 
 &nbsp;&nbsp; 🔑 [ci.ri2-package-signing-key.asc]({{ "ci.ri2-package-signing-key.asc" | relative_url }})
+
+See the Wiki [how to verify PGP signatures](https://github.com/oneclick/rubyinstaller2/wiki/FAQ#user-content-verify-signatures).
