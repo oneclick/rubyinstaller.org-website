@@ -359,37 +359,31 @@
   name: Ruby 2.4.10-1 (x64)
   sha256: 25c77ec5b49f210e7f2cdff956206a374ace5c66f7bbd4aa99c5e96fc12ebe20
   gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.4.10-1/rubyinstaller-2.4.10-1-x64.7z.asc
-  show: true
 - filetype: rubyinstallerexe
   href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.4.10-1/rubyinstaller-2.4.10-1-x64.exe
   name: Ruby 2.4.10-1 (x64)
   sha256: 0530fca5d09b8099b4f68f37ec975aaaa3dbcf5ca5c4e489e355606557ce72db
   gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.4.10-1/rubyinstaller-2.4.10-1-x64.exe.asc
-  show: true
 - filetype: rubyinstaller7z
   href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.4.10-1/rubyinstaller-2.4.10-1-x86.7z
   name: Ruby 2.4.10-1 (x86)
   sha256: b0fa7873685ea537e1b69d0514e5604159d59765ea263a294bba68bee9bb9472
   gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.4.10-1/rubyinstaller-2.4.10-1-x86.7z.asc
-  show: true
 - filetype: rubyinstallerexe
   href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.4.10-1/rubyinstaller-2.4.10-1-x86.exe
   name: Ruby 2.4.10-1 (x86)
   sha256: 1afe4cc969cca54a1ae8bf69d13c13b5e0d5d82aca6a1a73f808b97412d9a95d
   gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.4.10-1/rubyinstaller-2.4.10-1-x86.exe.asc
-  show: true
 - filetype: ridkexe
   href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.4.10-1/rubyinstaller-devkit-2.4.10-1-x64.exe
   name: Ruby+Devkit 2.4.10-1 (x64)
   sha256: cb1cb6de915be8f2def45975725ffeb31c95c4ed55d0f9d15249a2e6e4db639a
   gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.4.10-1/rubyinstaller-devkit-2.4.10-1-x64.exe.asc
-  show: true
 - filetype: ridkexe
   href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.4.10-1/rubyinstaller-devkit-2.4.10-1-x86.exe
   name: Ruby+Devkit 2.4.10-1 (x86)
   sha256: 3ec7caca5d6a850472d08d49023ad27e58beb958b07377da835ed9c0d951359a
   gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.4.10-1/rubyinstaller-devkit-2.4.10-1-x86.exe.asc
-  show: true
 - filetype: rubyinstaller7z
   href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.7.0-1/rubyinstaller-2.7.0-1-x64.7z
   name: Ruby 2.7.0-1 (x64)
