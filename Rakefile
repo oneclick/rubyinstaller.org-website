@@ -200,6 +200,74 @@ namespace "release" do
   end
 end
 
+CONTENT_TYPE_FOR_EXT = {
+  ".exe" => "application/vnd.microsoft.portable-executable",
+  ".asc" => "application/pgp-signature",
+  ".7z" => "application/zip",
+  ".yml" => "application/x-yaml",
+}
+
+# This task was once used to migrate all old rubyinstaller release files from bintray to github.
+namespace "bintray" do
+  task "upload" do
+    filerefs = read_filerefs
+
+    client = github_client
+    repo = "oneclick/rubyinstaller"
+    all_releases = client.releases(repo, per_page: 100)
+
+    filerefs.select{|fr| fr['href'] =~ /bintray/ }.each do |fr|
+      fname = File.basename(fr['href'])
+      fname_local = "_releases/#{fname}"
+      fhash = calc_hash(fname_local)
+      ehash = fr['sha256']
+
+      raise "hashes don't match: #{fname}: #{fhash} != #{ehash}" if ehash && ehash.downcase != fhash.downcase
+
+      rel_name = fname[/ruby(installer)?-\d+\.\d+\.\d+(-p\d+)?/] || fname[/DevKit(-tdm)?-(32-|64-)?\d+\.\d+\.\d+(-p\d+)?/i]
+      if rel_name
+        tag_name = rel_name.gsub("installer", "")
+        headline = tag_name.sub("ruby", "Ruby").sub("-", " ")
+        puts "release #{headline} (#{rel_name}): #{fname}"
+
+        release = all_releases.find{|r| r.tag_name == tag_name }
+        unless release
+          puts "Create new release #{headline} tag: #{tag_name}"
+          release = client.create_release(repo, tag_name,
+                                          target_commitish: "master",
+                                          name: headline,
+                                          body: "",
+                                          draft: false,
+                                          prerelease: false
+                                        )
+          all_releases << release
+        end
+
+        all_assets = all_releases.flat_map do |r|
+          r.assets.reject{|a| a.browser_download_url.end_with?(".asc") }
+        end
+
+        old_assets = client.release_assets(release.url)
+
+        if asset=old_assets.find{|a| a.name == File.basename(fname) }
+          puts "Asset already present #{File.basename(fname)}"
+        else
+          print "Uploading #{fname} (#{File.size(fname_local)} bytes) ... "
+          asset = client.upload_asset(release.url, fname_local, content_type: CONTENT_TYPE_FOR_EXT[File.extname(fname)])
+          puts "OK: #{asset.browser_download_url}"
+        end
+
+        fr["sha256"] ||= fhash
+        fr["href"] = asset.browser_download_url
+
+        write_filerefs(filerefs)
+      else
+        puts "unknown file #{fname}"
+      end
+    end
+  end
+end
+
 namespace "signtool" do
   desc "List keys from PKCS11 signature stick"
   task "list-keys" do

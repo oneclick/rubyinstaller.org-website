@@ -1115,867 +1115,948 @@
   sha256: 40e235deafd39902823386b212d144e1984eed422650765a98988913346c055a
   gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/2.4.1-1/rubyinstaller-2.4.1-1-x86.exe.asc
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.3.3.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.3.3/rubyinstaller-2.3.3.exe
   name: Ruby 2.3.3
   sha256: 43110f9bcd8a067d69409507cad6a43f1fcf05e8bd64d096dd9df47475de50f3
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.3.3-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.3.3/rubyinstaller-2.3.3-x64.exe
   name: Ruby 2.3.3 (x64)
   sha256: 3d0a4ad06c5503e1cb88827443593969e689ac96b5161140b08f0becb7b792cf
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.3.1.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.3.1/rubyinstaller-2.3.1.exe
   name: Ruby 2.3.1
   sha256: 5883233e5477c8097e68ec4bb47932011664d8d3a46595a9440bfd47c9dc78cb
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.3.1-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.3.1/rubyinstaller-2.3.1-x64.exe
   name: Ruby 2.3.1 (x64)
   sha256: a883e24b9a2b383170e17c372cec32bdeb2804ebc1ca5997d68d97cdddae883c
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.3.0.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.3.0/rubyinstaller-2.3.0.exe
   name: Ruby 2.3.0
   sha256: f7926dd87bc2f436ea1f407073a01ace38285818578a8764e2c1ec93aaead3c6
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.3.0-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.3.0/rubyinstaller-2.3.0-x64.exe
   name: Ruby 2.3.0 (x64)
   sha256: '087a7e3404fc2892f7eae6e8d0a12de419d57a8a4d78bbcf95568cb75f086a99'
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.2.6.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.6/rubyinstaller-2.2.6.exe
   name: Ruby 2.2.6
   sha256: b53bb768aea3946178149a804201e68ddc034ba5140f2488c2520da24f76e3cc
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.2.6-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.6/rubyinstaller-2.2.6-x64.exe
   name: Ruby 2.2.6 (x64)
   sha256: d1205b461f15f9dc6ad1eac08bf5a77dd2bce3a37095e5f09ac6e45bc334c198
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.2.5.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.5/rubyinstaller-2.2.5.exe
   name: Ruby 2.2.5
   sha256: 063d80ee6766d6e691cd94d6572c0cb0533e325e19ec2dccb787d29bfdce41a8
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.2.5-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.5/rubyinstaller-2.2.5-x64.exe
   name: Ruby 2.2.5 (x64)
   sha256: 43fff3fccbcf42d0d3fbe7bd84d37416bf844b8e5b56e357af60e0519c002732
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.2.4.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.4/rubyinstaller-2.2.4.exe
   name: Ruby 2.2.4
   sha256: eb367eb63a15d9b594be97015da12cf3ef608a5abca125d0a24f537a8bf1f8ef
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.2.4-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.4/rubyinstaller-2.2.4-x64.exe
   name: Ruby 2.2.4 (x64)
   sha256: f600c3d1baff0dcf5fd86280e6e9c4703ceb9c641a7fef90fb551c8c6f5825fd
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.2.3.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.3/rubyinstaller-2.2.3.exe
   name: Ruby 2.2.3
   sha256: e651c9a7abcc120b5703d9024942b121460084595489dc6f2306a71127cd901e
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.2.3-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.3/rubyinstaller-2.2.3-x64.exe
   name: Ruby 2.2.3 (x64)
   sha256: ca4dadefce6a5adbd4bdd1d960edc0d99d4e05af749e1ed7678476540b7443db
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.2.2.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.2/rubyinstaller-2.2.2.exe
   name: Ruby 2.2.2
   sha256: 53c04fd0d60a640ae868ff917b284da7c0131be8242d7953b69829a011abfd5c
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.2.2-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.2/rubyinstaller-2.2.2-x64.exe
   name: Ruby 2.2.2 (x64)
   sha256: 25cbd5cb02d4c1b73d8386ee123c68d61aafa6c879fc6230a51016278fae3950
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.2.1.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.1/rubyinstaller-2.2.1.exe
   name: Ruby 2.2.1
   sha256: b2d8d93ce8179834916d2479a2e08bd900ec4a4df9070a9ba41b8b4cce36ec4a
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.2.1-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.1/rubyinstaller-2.2.1-x64.exe
   name: Ruby 2.2.1 (x64)
   sha256: 6a0582505da6bcd30b2b8d5ab84129ec2ee23829aa932f7536dd70965ba0f9f2
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.1.9.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.9/rubyinstaller-2.1.9.exe
   name: Ruby 2.1.9
   sha256: 946101ebbe729f1a26f9836ac7485a7449a0ea3c7325c973ff2a3548edc2e488
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.1.9-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.9/rubyinstaller-2.1.9-x64.exe
   name: Ruby 2.1.9 (x64)
   sha256: aadd8fe9ff1ea2cda58019a3c48c83206e8016e265c19d746493ad26edd89987
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.1.8.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.8/rubyinstaller-2.1.8.exe
   name: Ruby 2.1.8
   sha256: eee3c6be5da51afd69e258c911ccd6bd27091766dad1fba0e7420d4d1a8e1ad8
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.1.8-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.8/rubyinstaller-2.1.8-x64.exe
   name: Ruby 2.1.8 (x64)
   sha256: e991390a89af7e4736db991a2b759bb826de8be39218305797fc879923ea964a
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.1.7.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.7/rubyinstaller-2.1.7.exe
   name: Ruby 2.1.7
   sha256: c7c805c8310919d6deed1b1b6ef7ddc6c0c83b0a79e8521876ecb156da020684
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.1.7-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.7/rubyinstaller-2.1.7-x64.exe
   name: Ruby 2.1.7 (x64)
   sha256: b60791aa333c5a540f41647e2c82256d77f75481843d30d098cb1481a51447e7
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.1.6.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.6/rubyinstaller-2.1.6.exe
   name: Ruby 2.1.6
   sha256: c31861c252031928c661b58accfc9b02fbd63d35d03844b08811ae8094cc401e
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.1.6-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.6/rubyinstaller-2.1.6-x64.exe
   name: Ruby 2.1.6 (x64)
   sha256: f99edeaa2f192403536ec13070d9bf5936a634f8396ed896757129260169c853
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.1.5.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.5/rubyinstaller-2.1.5.exe
   name: Ruby 2.1.5
   sha256: a426347e609e5502357443113d88c3c6274137bdab9af3f0f4aaf04b7f177c9f
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.1.5-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.5/rubyinstaller-2.1.5-x64.exe
   name: Ruby 2.1.5 (x64)
   sha256: 2464522a6cee84b51b8dd0cf5f8b87bd35da77d416305ead30b63923d4501f8f
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.1.4.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.4/rubyinstaller-2.1.4.exe
   name: Ruby 2.1.4
   sha256: 1155b8eab79f6818ae4b09fec6a180da31c8bed6f81c3747ce5a6434b37c6d86
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.1.4-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.4/rubyinstaller-2.1.4-x64.exe
   name: Ruby 2.1.4 (x64)
   sha256: 7abd94bb78f3dbecbb02a2370b05cdbd1dbf176afe887b66c742f506cf32472a
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.1.3.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.3/rubyinstaller-2.1.3.exe
   name: Ruby 2.1.3
   sha256: 3a9c2567a5f3295bb6a7f8130a038860f09551ad0fdc8739f29e0e12e667fa03
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.1.3-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.3/rubyinstaller-2.1.3-x64.exe
   name: Ruby 2.1.3 (x64)
   sha256: b2aa0862b742dc88f38f54292701dc42ebd0d79a0a7839b2b439e4c58550d975
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p648.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p648/rubyinstaller-2.0.0-p648.exe
   name: Ruby 2.0.0-p648
   sha256: f4c7b92ee0e43d59ed3cf4e1122e13526b1b3af38ae7f39b1a61d8e99ecaace0
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p648-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p648/rubyinstaller-2.0.0-p648-x64.exe
   name: Ruby 2.0.0-p648 (x64)
   sha256: c38f6fa702383fb683ab7a95ab1fff3db521a33a5c6cbcbba8ae7618e821ec17
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p647.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p647/rubyinstaller-2.0.0-p647.exe
   name: Ruby 2.0.0-p647
   sha256: bb3a0cc3bc19b3f9731801f52d1c3400148a7b9f308e6d82219bd69257329630
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p647-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p647/rubyinstaller-2.0.0-p647-x64.exe
   name: Ruby 2.0.0-p647 (x64)
   sha256: 0adf68a5ef96789b529cd53a3888db06c540929954b2135bc235f56591fe978d
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p645.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p645/rubyinstaller-2.0.0-p645.exe
   name: Ruby 2.0.0-p645
   sha256: 9bfb1dfc6e24731570635ed39316a3f4541b12bf4b133605e51cfe577838cdc8
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p645-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p645/rubyinstaller-2.0.0-p645-x64.exe
   name: Ruby 2.0.0-p645 (x64)
   sha256: 878dfe29fe644f64de02136df736709cf5ba620d617060eea732805cc9cae2ca
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p643.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p643/rubyinstaller-2.0.0-p643.exe
   name: Ruby 2.0.0-p643
   sha256: 0074e95e6573895a4e7742070d042c067a334d1ce4a2aba3e7b3f2a306dcc1ef
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p643-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p643/rubyinstaller-2.0.0-p643-x64.exe
   name: Ruby 2.0.0-p643 (x64)
   sha256: d993e82cb7414db82fcd3e8ab2582c684924e73dcec418c550bde126782fcacf
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p598.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p598/rubyinstaller-2.0.0-p598.exe
   name: Ruby 2.0.0-p598
   sha256: aaa1bbb9bdb1e85da8675635956de53a6cd5c151ba32fceb72bb6366f2da8d92
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p598-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p598/rubyinstaller-2.0.0-p598-x64.exe
   name: Ruby 2.0.0-p598 (x64)
   sha256: 6e7ff2632f92af99d5c1dabb5e510b025ac8221deed0454b49f05a2a2b5d210f
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p594.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p594/rubyinstaller-2.0.0-p594.exe
   name: Ruby 2.0.0-p594
   sha256: 7cedaed26ddcbf53ddae69ccce9b1171e3558fe3f49cf052b71b5f27b06ad1d7
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p594-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p594/rubyinstaller-2.0.0-p594-x64.exe
   name: Ruby 2.0.0-p594 (x64)
   sha256: d4f1983d8034e1ac737f7438ae8286771597f6ee09a168058ac3ee762b978076
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p576.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p576/rubyinstaller-2.0.0-p576.exe
   name: Ruby 2.0.0-p576
   sha256: edde4a9028c78b2c40ecd3539a5687a1e5af9f102dcf77a9760cfd9d8ea26518
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p576-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p576/rubyinstaller-2.0.0-p576-x64.exe
   name: Ruby 2.0.0-p576 (x64)
   sha256: a14eac11012ac237e839f55c492ff31154c10f734da8f89fead3ff4853cf1bf8
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p481.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p481/rubyinstaller-2.0.0-p481.exe
   name: Ruby 2.0.0-p481
   sha256: 7c1e5b931bf1c10c18139dc648a7f83a34049047dcd25acb7abd8d13e783cbfa
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p481-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p481/rubyinstaller-2.0.0-p481-x64.exe
   name: Ruby 2.0.0-p481 (x64)
   sha256: 7536ac4ef34b93acc6f9e47091d46b3cc9d61825b2bd570e6812ce59049f1d7d
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p451.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p451/rubyinstaller-2.0.0-p451.exe
   name: Ruby 2.0.0-p451
   sha256: f66ad15201d08af742bb5e8faa92c910c1821a453b2713f93da2672a2ce7e24d
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p451-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p451/rubyinstaller-2.0.0-p451-x64.exe
   name: Ruby 2.0.0-p451 (x64)
   sha256: ebac7557e69086b8f110105df8b51550e6c5a37e497e056ac68093fd4a6ced98
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p353.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p353/rubyinstaller-2.0.0-p353.exe
   name: Ruby 2.0.0-p353
   sha256: 4700cd1308c327a7ca75339c6ad4b68e7f4c9704995ab2d974566a02b570a914
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p353-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p353/rubyinstaller-2.0.0-p353-x64.exe
   name: Ruby 2.0.0-p353 (x64)
   sha256: ace1185209b5ebf75bda6d3fbfaead7b64ff0286aba8111a1161a26e98a7bc5d
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p247.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p247/rubyinstaller-2.0.0-p247.exe
   name: Ruby 2.0.0-p247
   sha256: 3939b6807a8ddc56d0016e20231d676eb70bcd9b034aef65fb0fda6ff0bc37de
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p247-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p247/rubyinstaller-2.0.0-p247-x64.exe
   name: Ruby 2.0.0-p247 (x64)
   sha256: 6e09b168a576da956003d4e7e02f99aad4772d75bd05a1853153a198dbf5173a
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p195.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p195/rubyinstaller-2.0.0-p195.exe
   name: Ruby 2.0.0-p195
+  sha256: 2d714600e124b6071351d5e551561bbdc438d8342ba7b4d8615a1ac097fa7317
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p195-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p195/rubyinstaller-2.0.0-p195-x64.exe
   name: Ruby 2.0.0-p195 (x64)
+  sha256: 96bcc272ac93d951f457b914d8dec77fd999bf0c234d06d1dc84cb1882a5786a
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p0.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p0/rubyinstaller-2.0.0-p0.exe
   name: Ruby 2.0.0-p0
+  sha256: 494f728bed7d3a50824a888634daa51667c981755e6dc264572e20e0ff0836dc
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p0-x64.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p0/rubyinstaller-2.0.0-p0-x64.exe
   name: Ruby 2.0.0-p0 (x64)
+  sha256: 681940a95998940956602e63dcf6e0b05996f99553e28e61198b35cbb88de19c
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.3-p551.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p551/rubyinstaller-1.9.3-p551.exe
   name: Ruby 1.9.3-p551
   sha256: d0c5cffb7215999568c18f4221b3ec41bfc5ddd374f8b30381a353f4d97f2f30
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.3-p550.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p550/rubyinstaller-1.9.3-p550.exe
   name: Ruby 1.9.3-p550
   sha256: 775d8bd9a102a1f7a113cfe200833f73649702337f31c363da0187de4ec6f22d
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.3-p545.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p545/rubyinstaller-1.9.3-p545.exe
   name: Ruby 1.9.3-p545
   sha256: abe8106d5b7f7d09fbccbd32b756b4a0f5ff2f1af61b51893db28d6e583fc9c6
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.3-p484.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p484/rubyinstaller-1.9.3-p484.exe
   name: Ruby 1.9.3-p484
   sha256: 9478d6e58c97d59c30fc90427bacf2c2579b087a6d86d59b47a92a582aacd84a
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.3-p448.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p448/rubyinstaller-1.9.3-p448.exe
   name: Ruby 1.9.3-p448
   sha256: '08b43e10b6a0cd6d587589aeee0ba602273421037f50217009894c729f7e2d03'
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.3-p429.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p429/rubyinstaller-1.9.3-p429.exe
   name: Ruby 1.9.3-p429
+  sha256: 96537a2d45189cc3bbdd850227443630ebaefa75ca9fdd0829953affa4d9fa8c
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.3-p392.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p392/rubyinstaller-1.9.3-p392.exe
   name: Ruby 1.9.3-p392
+  sha256: 7caa832b52873aaec3bc8da465e19196514149a7e3839a7882003fe80224e90d
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.3-p385.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p385/rubyinstaller-1.9.3-p385.exe
   name: Ruby 1.9.3-p385
+  sha256: c8c0e6ccb0fcf8f6457f4da4574a470fa9fd1cafce6aa2ef2c728cf218b0f1e2
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.3-p374.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p374/rubyinstaller-1.9.3-p374.exe
   name: Ruby 1.9.3-p374
+  sha256: 1a28a1c687e39cc2ac1a546c3178a60ed85434b0b475495a78e6a801fb2e8463
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.3-p362.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p362/rubyinstaller-1.9.3-p362.exe
   name: Ruby 1.9.3-p362
+  sha256: f37309650d49d3955c0fb35cda17328e0fe890de96c0da51fc68cf2c7cca9577
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.3-p327.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p327/rubyinstaller-1.9.3-p327.exe
   name: Ruby 1.9.3-p327
+  sha256: 8ffd27daffae134e0afd21fab7256384b6754156111618b3aa91babb966e94c2
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.3-p286.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p286/rubyinstaller-1.9.3-p286.exe
   name: Ruby 1.9.3-p286
+  sha256: 3b44a072d175f658aa488b06f8424c1cfb17f5e016c959395433b14ed4986ab2
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.3-p194.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p194/rubyinstaller-1.9.3-p194.exe
   name: Ruby 1.9.3-p194
+  sha256: c2208f40a20b988837b7e8bbdb1ca9dc9893b674cf45c11d744ede391f304fd9
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.3-p125.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p125/rubyinstaller-1.9.3-p125.exe
   name: Ruby 1.9.3-p125
+  sha256: 962e82a86f50741e1a545c00bde1a62c0c8f9fa93445838c3c120a74f789da80
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.3-p0.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p0/rubyinstaller-1.9.3-p0.exe
   name: Ruby 1.9.3-p0
+  sha256: 66b1fe85b3e10ca5e646f755829fc95a52ebba7ba0e22c8bef90374c8c95e672
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.2-p290.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.2-p290/rubyinstaller-1.9.2-p290.exe
   name: Ruby 1.9.2-p290
+  sha256: a64f80a6257f02d164ee57150dcfeb4f666abb45d5290469c8f2221b20b2a30f
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.2-p180.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.2-p180/rubyinstaller-1.9.2-p180.exe
   name: Ruby 1.9.2-p180
+  sha256: c5bd5d2970aed6dfbde803b028ab739cec5f702416b7302c41a18d45b2619f3d
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.2-p136.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.2-p136/rubyinstaller-1.9.2-p136.exe
   name: Ruby 1.9.2-p136
+  sha256: bc8019dd3c0a2974a86a844c6ac4bd38d4a68b0e15fc640d087a5897ea7111c4
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.2-p0.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.2-p0/rubyinstaller-1.9.2-p0.exe
   name: Ruby 1.9.2-p0
+  sha256: f0f00769983dab36c405ef944d679fd9df3feb8ccdcabf40c783a8459dc21276
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.8.7-p374.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p374/rubyinstaller-1.8.7-p374.exe
   name: Ruby 1.8.7-p374
   sha256: ba66cdf0a58aa3564bbdde77ff6075186d5c70efb02eeb73eb372fc9d08bf9fe
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.8.7-p371.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p371/rubyinstaller-1.8.7-p371.exe
   name: Ruby 1.8.7-p371
+  sha256: e900e7d6638ad5f853ec84bb2792b712c3bd1178917ad74f0d2e6068258988fb
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.8.7-p370.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p370/rubyinstaller-1.8.7-p370.exe
   name: Ruby 1.8.7-p370
+  sha256: 37a12fdf3e6cc15fab531e228180e173e740e0c0cc9f4c5bed26af0b450a6292
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.8.7-p358.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p358/rubyinstaller-1.8.7-p358.exe
   name: Ruby 1.8.7-p358
+  sha256: 3bc7c7d93a1801bea34220ea3db2db50e766f7e4eba0511cdddc2b7abfc7129e
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.8.7-p357.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p357/rubyinstaller-1.8.7-p357.exe
   name: Ruby 1.8.7-p357
+  sha256: b0bbe4bbd49a12f48c56e7fd1f82e5ad8ac4d29484e659baac4402052d254107
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.8.7-p352.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p352/rubyinstaller-1.8.7-p352.exe
   name: Ruby 1.8.7-p352
+  sha256: 4720388633ff4f0661032db7b7c00fbc701d2be733e273600431d1cb02c85700
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.8.7-p334.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p334/rubyinstaller-1.8.7-p334.exe
   name: Ruby 1.8.7-p334
+  sha256: cd8ed8ef7d30cca08eca68e41c0aa240cd799ffc24a692bd5bc6a0e837091d20
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.8.7-p330.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p330/rubyinstaller-1.8.7-p330.exe
   name: Ruby 1.8.7-p330
+  sha256: 54f7a5e7ffd4288a4c281e739ca579002367bfa86b1864284d68cc24fd29f6b2
 - filetype: rubyinstallerexe
-  href: https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.8.7-p302.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p302/rubyinstaller-1.8.7-p302.exe
   name: Ruby 1.8.7-p302
+  sha256: ab47b0a2b970915feff84c5ae0cfd2bf81db2087b5cb947b2e4421f6b0c15e3b
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.3.3-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.3.3/ruby-2.3.3-i386-mingw32.7z
   name: Ruby 2.3.3
   sha256: 5022ef928f0296abede90f1cf4346250d69f6298c648cad6279938f64eca29fa
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.3.3-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.3.3/ruby-2.3.3-x64-mingw32.7z
   name: Ruby 2.3.3 (x64)
   sha256: 92b97ac3eb380f3f1b7b655a328668cf02b2846ad3c20135bd51f45f4c1cbfc8
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.3.1-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.3.1/ruby-2.3.1-i386-mingw32.7z
   name: Ruby 2.3.1
   sha256: 24eddf097265dd8010e1118ef88428de0d182adfec6a6adb8073ca3dfcdec321
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.3.1-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.3.1/ruby-2.3.1-x64-mingw32.7z
   name: Ruby 2.3.1 (x64)
   sha256: d033e0343147d178a04752dbd0758311967189d37c16e9329828606b5a87be7d
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.3.0-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.3.0/ruby-2.3.0-i386-mingw32.7z
   name: Ruby 2.3.0
   sha256: c8daba86954ddb59a8ff3b1bb5dbb24fb0c4c06810d9067fabac870b9316b029
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.3.0-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.3.0/ruby-2.3.0-x64-mingw32.7z
   name: Ruby 2.3.0 (x64)
   sha256: e930827ecd075b7fc9cca50df2824c6b8fba26f90e92eae2e41d58edf74dbfc9
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.2.6-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.6/ruby-2.2.6-i386-mingw32.7z
   name: Ruby 2.2.6
   sha256: cc9a104fb74ec45523b0e40ac66225ec8a3e66b2a6fc0c46f1adc691cb14e3cb
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.2.6-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.6/ruby-2.2.6-x64-mingw32.7z
   name: Ruby 2.2.6 (x64)
   sha256: b9d904209277f0ae005890046053d67fd7841635a4f507c1e8d88f1d25a37586
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.2.5-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.5/ruby-2.2.5-i386-mingw32.7z
   name: Ruby 2.2.5
   sha256: be0dd3f56986ffaf4789a9978ca6d155abf5407db2a64e8abd82c61035bfb274
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.2.5-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.5/ruby-2.2.5-x64-mingw32.7z
   name: Ruby 2.2.5 (x64)
   sha256: 517e9bf81cac48d4ba3212e1950d542c4ac2106fc7f0af49160eadcfa0d66d16
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.2.4-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.4/ruby-2.2.4-i386-mingw32.7z
   name: Ruby 2.2.4
   sha256: da8a3ec5ac4ac23f21037e5132ea1362d56c8846bcba2209a4125928f88a8015
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.2.4-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.4/ruby-2.2.4-x64-mingw32.7z
   name: Ruby 2.2.4 (x64)
   sha256: 9e8c1eea5b7fd732efd3207210c17b7d0620858f33966652f0bb2566fe04c660
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.2.3-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.3/ruby-2.2.3-i386-mingw32.7z
   name: Ruby 2.2.3
   sha256: '08b33a85ec26c01a6d305a258680976b57081e22ad9196623c1cf154e558e3ce'
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.2.3-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.3/ruby-2.2.3-x64-mingw32.7z
   name: Ruby 2.2.3 (x64)
   sha256: 683270a7e09ef756476c00902eda9999137468eb21a371831b7c01602d2fd069
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.2.2-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.2/ruby-2.2.2-i386-mingw32.7z
   name: Ruby 2.2.2
   sha256: 5831bb35208cd0004a25675863d04a9da89ffa53d0f393cbbb794776b33d43bd
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.2.2-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.2/ruby-2.2.2-x64-mingw32.7z
   name: Ruby 2.2.2 (x64)
   sha256: 5db1f9af028fd5e60e5056b2bac85ca6f46d7755eb56a9c04b1dd854947b417c
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.2.1-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.1/ruby-2.2.1-i386-mingw32.7z
   name: Ruby 2.2.1
   sha256: 53c3d758f8be083abc00ce8c9f6150c007a93934e8b26647915ba2edef84a8e5
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.2.1-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.1/ruby-2.2.1-x64-mingw32.7z
   name: Ruby 2.2.1 (x64)
   sha256: afc01c6e5fa15bfd32b85ab42f0466fbb5b7c74b08e9ed71f5ad2e852c979ecc
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.9-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.9/ruby-2.1.9-i386-mingw32.7z
   name: Ruby 2.1.9
   sha256: f8a28e27ebd502a10b8683377bd71dcc1b49b5269cee25698e11cfe0395640dd
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.9-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.9/ruby-2.1.9-x64-mingw32.7z
   name: Ruby 2.1.9 (x64)
   sha256: abc6f5335d7676598ea9bb7fe70ed9845e68720dde987264eae0bc6ea037c726
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.8-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.8/ruby-2.1.8-i386-mingw32.7z
   name: Ruby 2.1.8
   sha256: 1776677436f5c57bcf0a74ccb77ca8e08c28acecb85cf7f851edb17a721ba3d8
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.8-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.8/ruby-2.1.8-x64-mingw32.7z
   name: Ruby 2.1.8 (x64)
   sha256: 92910f50002906d48de1a86e104d61be3766a7195ab99d71af41e00115e99fda
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.7-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.7/ruby-2.1.7-i386-mingw32.7z
   name: Ruby 2.1.7
   sha256: cf6e9f4bb156e70df4dcb5052011296edeb16bf02a4a4e476899a03ceed9a248
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.7-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.7/ruby-2.1.7-x64-mingw32.7z
   name: Ruby 2.1.7 (x64)
   sha256: 711ca6c510adb921ed1db66a01963767040dfbdec65949ef616279c76dba7e9e
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.6-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.6/ruby-2.1.6-i386-mingw32.7z
   name: Ruby 2.1.6
   sha256: 7c8ce382002892602d908a516777abd5fb9bc630574382a4cf64b205b8380e8b
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.6-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.6/ruby-2.1.6-x64-mingw32.7z
   name: Ruby 2.1.6 (x64)
   sha256: c2de5f535df2c52d53bacde207103db707e61678f0421c3ecbbf6dff510f8ed8
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.5-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.5/ruby-2.1.5-i386-mingw32.7z
   name: Ruby 2.1.5
   sha256: 1e1619d41ffae46826bb7866f9e6f148cf13730c40aba80e520f835ccd005f18
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.5-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.5/ruby-2.1.5-x64-mingw32.7z
   name: Ruby 2.1.5 (x64)
   sha256: 120dc70369c90ae66e3c02f1c9e70579841ab204a3eac1b25110d9ae542199a7
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.4-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.4/ruby-2.1.4-i386-mingw32.7z
   name: Ruby 2.1.4
   sha256: a0909ee86b8e2492e3696f4a7decd9dbe041562cdf66a5bc0080c239e68ca7fe
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.4-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.4/ruby-2.1.4-x64-mingw32.7z
   name: Ruby 2.1.4 (x64)
   sha256: c6148c9521cd167c1c8eff4b14bf8caba079cccc4f7e8c5e00e7299f3cca2ab3
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.3-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.3/ruby-2.1.3-i386-mingw32.7z
   name: Ruby 2.1.3
   sha256: f58014fd13c40305bca90fb2123e4b2bf112a40339b80442eb4b6b52467cc994
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.3-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.3/ruby-2.1.3-x64-mingw32.7z
   name: Ruby 2.1.3 (x64)
   sha256: e438c645efcb35e7528830655dc00acaa4f0c7ca3f7c6f20a087cbec14118773
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p648-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p648/ruby-2.0.0-p648-i386-mingw32.7z
   name: Ruby 2.0.0-p648
   sha256: 0a9c61ba46e37d36cb5efdc5957af1ec352729ec75d3aa5c020d1581a67ee636
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p648-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p648/ruby-2.0.0-p648-x64-mingw32.7z
   name: Ruby 2.0.0-p648 (x64)
   sha256: '094990f48608853f6d3a02d9937db29afc9603c9b34b8258152efd63a70976df'
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p647-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p647/ruby-2.0.0-p647-i386-mingw32.7z
   name: Ruby 2.0.0-p647
   sha256: b5f8ff6c8cd71078bbbce1bffdac92e3189c54d1982eb4b4d4a4c3417c3fce60
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p647-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p647/ruby-2.0.0-p647-x64-mingw32.7z
   name: Ruby 2.0.0-p647 (x64)
   sha256: '004878473f10e5cc22452f8594cd272d913e7fcb2e0275242555de41524615c8'
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p645-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p645/ruby-2.0.0-p645-i386-mingw32.7z
   name: Ruby 2.0.0-p645
   sha256: b80146dffa97b654b54b5be3dac07f2140e3abada4707994bbd0455827977196
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p645-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p645/ruby-2.0.0-p645-x64-mingw32.7z
   name: Ruby 2.0.0-p645 (x64)
   sha256: cec14b304bd83e206426cf1d2edd31f37b41b90fdba69fe7b4c0b2d40a312ba3
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p643-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p643/ruby-2.0.0-p643-i386-mingw32.7z
   name: Ruby 2.0.0-p643
   sha256: 15924f3726e9c1960d661c97f21ef92d252e14cc96d0f4362056d52ee7149761
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p643-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p643/ruby-2.0.0-p643-x64-mingw32.7z
   name: Ruby 2.0.0-p643 (x64)
   sha256: '049c310565fc11cc7f99e6145024ee6c36d5e1ac4b634bed1b22fa3e3d3662cd'
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p598-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p598/ruby-2.0.0-p598-i386-mingw32.7z
   name: Ruby 2.0.0-p598
   sha256: 7e62a1f06e198152c08ab13086e79b1c7807fecdd655593dd10c564d8f9b19b5
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p598-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p598/ruby-2.0.0-p598-x64-mingw32.7z
   name: Ruby 2.0.0-p598 (x64)
   sha256: 5c5fc637923dbac5ace349f6e808562b74b6bab441b2a14a61a5ebde32936420
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p594-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p594/ruby-2.0.0-p594-i386-mingw32.7z
   name: Ruby 2.0.0-p594
   sha256: f64fe7471c84f62db9600a75b80be6cc5dfcf2c0280bcd3eb2ad6c454728dc53
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p594-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p594/ruby-2.0.0-p594-x64-mingw32.7z
   name: Ruby 2.0.0-p594 (x64)
   sha256: '0089d780afad6762d0dbfff17b96bf2f65b4195aa506cfca31f4e380c2612fcb'
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p576-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p576/ruby-2.0.0-p576-i386-mingw32.7z
   name: Ruby 2.0.0-p576
   sha256: 6901a6a962fd766b84962005b437c4b348b32525c6478aa4f3c84d417041affa
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p576-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p576/ruby-2.0.0-p576-x64-mingw32.7z
   name: Ruby 2.0.0-p576 (x64)
   sha256: f5067e493ed912623e6c4700e3c798e9aa7e596dedfd95244d081e706d5c5ac6
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p481-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p481/ruby-2.0.0-p481-i386-mingw32.7z
   name: Ruby 2.0.0-p481
   sha256: 6de5435963a3d811a8ba8fc5191984c271a80040813c14c54b0bed042fe528a9
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p481-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p481/ruby-2.0.0-p481-x64-mingw32.7z
   name: Ruby 2.0.0-p481 (x64)
   sha256: 8f23120e671f6262afb0c73ac707fce45d3b347ea7dc35fc6e861ecf55042a56
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p451-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p451/ruby-2.0.0-p451-i386-mingw32.7z
   name: Ruby 2.0.0-p451
   sha256: 7a4c258b3c86bccddcf0f797bedf3362c0904e7fc3a66cf33a1032dc4bd4bb19
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p451-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p451/ruby-2.0.0-p451-x64-mingw32.7z
   name: Ruby 2.0.0-p451 (x64)
   sha256: '0970beef635e500bc988bef43e500913e12c51b6e281ef2fcd0eb779b981f841'
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p353-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p353/ruby-2.0.0-p353-i386-mingw32.7z
   name: Ruby 2.0.0-p353
   sha256: 5750226aec408584859a612c48b0f29aa1db379ef2da34b4c852aadca0873811
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p353-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p353/ruby-2.0.0-p353-x64-mingw32.7z
   name: Ruby 2.0.0-p353 (x64)
   sha256: 648e813f42dafa6e58a08b98947b4dc4c050566a92e547236f13fd86500aaa00
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p247-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p247/ruby-2.0.0-p247-i386-mingw32.7z
   name: Ruby 2.0.0-p247
   sha256: ac4c80b23623449f31aaa908818d48c504f4c364c2a2e127a9ae8d2fae5f99e4
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p247-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p247/ruby-2.0.0-p247-x64-mingw32.7z
   name: Ruby 2.0.0-p247 (x64)
   sha256: 2c3399a96c9c2f3fe6bce1ad6e569e7534fd36318b6ca0077026e3c077172afe
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p195-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p195/ruby-2.0.0-p195-i386-mingw32.7z
   name: Ruby 2.0.0-p195
+  sha256: cdabcea1bdb6668d3f1584f63da3369320c481fb2918d44231312d175362b8ef
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p195-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p195/ruby-2.0.0-p195-x64-mingw32.7z
   name: Ruby 2.0.0-p195 (x64)
+  sha256: 3f26c122851eddb31289d06fc1ac33c5918d763f4ee6e3dbcbe875d30b1bb99d
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p0-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p0/ruby-2.0.0-p0-i386-mingw32.7z
   name: Ruby 2.0.0-p0
+  sha256: 7e6ae6e478f7b01db758d611242b35b5c8db0e6a31efd856a0c3c511174dfab9
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p0-x64-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p0/ruby-2.0.0-p0-x64-mingw32.7z
   name: Ruby 2.0.0-p0 (x64)
+  sha256: '0088f91ee34f30422806fd6a1e5c6a5cf4e8d044695b0be1397e1b8cdbf50a7d'
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p551-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p551/ruby-1.9.3-p551-i386-mingw32.7z
   name: Ruby 1.9.3-p551
   sha256: 207fdb5b2f9436ad1ac27bf51918b913c14c443d1b83cd910cf5a59acaeab756
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p550-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p550/ruby-1.9.3-p550-i386-mingw32.7z
   name: Ruby 1.9.3-p550
   sha256: 779aaeea987a2d7523f4e18531ffc2bf83e0d0b486ebb0b8f05679076a32ebfa
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p545-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p545/ruby-1.9.3-p545-i386-mingw32.7z
   name: Ruby 1.9.3-p545
   sha256: f49d55289657127a99875f37c9f69bacd8433484f3fec993c5bceddc3c087c6c
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p484-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p484/ruby-1.9.3-p484-i386-mingw32.7z
   name: Ruby 1.9.3-p484
   sha256: 2dd1bfc4d48a5690480eea94a2b53450a39ef8f46f7d65f9e806485b0b2efdf5
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p448-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p448/ruby-1.9.3-p448-i386-mingw32.7z
   name: Ruby 1.9.3-p448
   sha256: 72c7bff32665b9aa2c5f66e63679ca1b4a6a16725579681d98e971e593aca506
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p429-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p429/ruby-1.9.3-p429-i386-mingw32.7z
   name: Ruby 1.9.3-p429
+  sha256: 75104f91e5cb76aeb646f28b303182155c35d5c2299efa51af9b1302269051df
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p392-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p392/ruby-1.9.3-p392-i386-mingw32.7z
   name: Ruby 1.9.3-p392
+  sha256: a002b38cc8210d5c51531fddc7b56006e7ff9a61de223a05020436e4476c0b40
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p385-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p385/ruby-1.9.3-p385-i386-mingw32.7z
   name: Ruby 1.9.3-p385
+  sha256: 4289879432d751ef8a76915a250abdb8030a42c36cc065a42f36a5aad0e272bb
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p374-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p374/ruby-1.9.3-p374-i386-mingw32.7z
   name: Ruby 1.9.3-p374
+  sha256: 0dae993fbb2a7105b742929d7dcefb459b19ce2209f1f01c85451561ee7e4227
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p362-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p362/ruby-1.9.3-p362-i386-mingw32.7z
   name: Ruby 1.9.3-p362
+  sha256: 0b60107bb94f5823bd1b7d2378b903084bce7d8bd677ec40134a2210a4b9d77b
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p327-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p327/ruby-1.9.3-p327-i386-mingw32.7z
   name: Ruby 1.9.3-p327
+  sha256: 420fc69172b67d78df9fe2bf84e11cd3d2cedde12983bc5356d2dc9d61c314ca
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p286-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p286/ruby-1.9.3-p286-i386-mingw32.7z
   name: Ruby 1.9.3-p286
+  sha256: 5e4b352c043064f21fec5092f78b5136eafe49158a4bdb6a1910c3d6c9ec7faf
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p194-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p194/ruby-1.9.3-p194-i386-mingw32.7z
   name: Ruby 1.9.3-p194
+  sha256: a412730be4aaab3f4f6bd20756d10b2b9cca0333247c69b45c72ef4f6e36cb34
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p125-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p125/ruby-1.9.3-p125-i386-mingw32.7z
   name: Ruby 1.9.3-p125
+  sha256: 6b7540775d99422174ff97303843d1409a08e623909553e1c727ec9b77f8faa6
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p0-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p0/ruby-1.9.3-p0-i386-mingw32.7z
   name: Ruby 1.9.3-p0
+  sha256: b7b9867e7de60dbc0b8dd2151ec5bca82297d38c094a2e56c61a8d34bb859972
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.2-p290-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.2-p290/ruby-1.9.2-p290-i386-mingw32.7z
   name: Ruby 1.9.2-p290
+  sha256: 58d1cdb08f24f6a1f14ce55f6d14734bf9341c76ab72998072fd98b4e94cf4ed
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.2-p180-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.2-p180/ruby-1.9.2-p180-i386-mingw32.7z
   name: Ruby 1.9.2-p180
+  sha256: 1b5715f3865522c3f962f9ec8a089a54c57c15ebf10378b838facfb047f316e2
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.2-p136-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.2-p136/ruby-1.9.2-p136-i386-mingw32.7z
   name: Ruby 1.9.2-p136
+  sha256: 7304e3ece6df0739eb4ec3c129a6dd4c75666c4f770b3442a6e30eed542f29db
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.2-p0-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.2-p0/ruby-1.9.2-p0-i386-mingw32.7z
   name: Ruby 1.9.2-p0
+  sha256: '080be22a75c587f8a16a0cf91ca1ec6aa29952d0ec510c3f508f7996c267077e'
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.8.7-p374-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p374/ruby-1.8.7-p374-i386-mingw32.7z
   name: Ruby 1.8.7-p374
   sha256: 07c46262a2ddebcf28c6b6259ba214e0f52512138017fa4a3cec0a0c2ab2519a
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.8.7-p371-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p371/ruby-1.8.7-p371-i386-mingw32.7z
   name: Ruby 1.8.7-p371
+  sha256: b425aa634c096eb710c5bbcea1dbdf4b8270f86ed0d7ebb0e1c0d8b5eda3eb94
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.8.7-p370-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p370/ruby-1.8.7-p370-i386-mingw32.7z
   name: Ruby 1.8.7-p370
+  sha256: 0d8846be6dcc6f733937127d47f9ecc0923e96316f289d63436b2e8350699529
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.8.7-p358-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p358/ruby-1.8.7-p358-i386-mingw32.7z
   name: Ruby 1.8.7-p358
+  sha256: 2a7e9a5e489d82438218d451da1835e29b5dfbcc9673c7976e2633451548a040
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.8.7-p357-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p357/ruby-1.8.7-p357-i386-mingw32.7z
   name: Ruby 1.8.7-p357
+  sha256: 34d80d136c4a22fc484e5f2b9f8a5a56e80f01b457a8aabe0e3cc779386df73f
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.8.7-p352-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p352/ruby-1.8.7-p352-i386-mingw32.7z
   name: Ruby 1.8.7-p352
+  sha256: f5b21458b5d28bbffc634692ff53cf0ebe81ac9f6699d95fa6de25f46f90a37b
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.8.7-p334-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p334/ruby-1.8.7-p334-i386-mingw32.7z
   name: Ruby 1.8.7-p334
+  sha256: b7506a1d15f6a52cd191df0dfa3ae1d3ea38595a4dd50a3564647527b38ec27d
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.8.7-p330-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p330/ruby-1.8.7-p330-i386-mingw32.7z
   name: Ruby 1.8.7-p330
+  sha256: 8445b991db0620109e36032fa7ccd7fed9cdc8f9303b068037260a72872ede57
 - filetype: rubyinstaller7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.8.7-p302-i386-mingw32.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p302/ruby-1.8.7-p302-i386-mingw32.7z
   name: Ruby 1.8.7-p302
+  sha256: 764f3e78845203dad22d76ccf719fe315dcce023db7da8c8a1dafeb00a208568
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.3.3-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.3.3/ruby-2.3.3-doc-chm.7z
   name: Ruby 2.3.3 documentation (CHM format)
   sha256: 6e011a18ffa34b40301be3c2dfffa81df3012e98e0e93575052b8d5314f45ebe
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.3.1-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.3.1/ruby-2.3.1-doc-chm.7z
   name: Ruby 2.3.1 CHM
   sha256: be51692457777db238b3ac5c34e09e887574c268d67cba266ed9aa08486529e9
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.3.0-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.3.0/ruby-2.3.0-doc-chm.7z
   name: Ruby 2.3.0 CHM
   sha256: 17bcd8fb55c10effc3ae73eed58ab3d492d2bb0362e394d5bfc34e57074d944e
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.2.6-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.6/ruby-2.2.6-doc-chm.7z
   name: Ruby 2.2.6 documentation (CHM format)
   sha256: abccdb0fc70dc187391aba1fb59869523eee68f3b752f53775f8a481c3481812
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.2.5-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.5/ruby-2.2.5-doc-chm.7z
   name: Ruby 2.2.5 CHM
   sha256: 04cbdcc6681eaf476739681d608b0b4b2544e0c41fc0b367f648fa5816f766d9
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.2.4-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.4/ruby-2.2.4-doc-chm.7z
   name: Ruby 2.2.4 CHM
   sha256: b32399c9e8367d470697fc24e1a677e9af4bd9bc761d60cce22133621f1495d7
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.2.3-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.3/ruby-2.2.3-doc-chm.7z
   name: Ruby 2.2.3 CHM
   sha256: b106e05a247b2665f9c0cdb9ea195153756101d5b8553a31816668644efe0357
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.2.2-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.2/ruby-2.2.2-doc-chm.7z
   name: Ruby 2.2.2 CHM
   sha256: 82866bd5881ec48b0e83cc37ac5ff374b044aff977c38de3a190151f9d31a476
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.2.1-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.2.1/ruby-2.2.1-doc-chm.7z
   name: Ruby 2.2.1 CHM
   sha256: 8e8fd759b7ea5ce6141da913d2ac528153a6a608ac82466f511aa59687c73a4c
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.9-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.9/ruby-2.1.9-doc-chm.7z
   name: Ruby 2.1.9 documentation (CHM format)
   sha256: 165032fb247b57f27095b643fc1bd7fa29de71381dc1172a00952a8e80ff55b0
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.8-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.8/ruby-2.1.8-doc-chm.7z
   name: Ruby 2.1.8 CHM
   sha256: 9a7462a37a7e1f7bfeef40c5966e54059143f74c958b8f47a2c8f7f5f052ca08
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.7-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.7/ruby-2.1.7-doc-chm.7z
   name: Ruby 2.1.7 CHM
   sha256: 2f7e36bc059a77dba5157de08306e24fc0fd7e0517f490231e61df5f7496da92
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.5-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.5/ruby-2.1.5-doc-chm.7z
   name: Ruby 2.1.6 CHM
   sha256: ad9bc5a42cf92eecdf5959acb953302590b059d3aee3cc8092ef62ea9ea48492
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.5-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.5/ruby-2.1.5-doc-chm.7z
   name: Ruby 2.1.5 CHM
   sha256: ad9bc5a42cf92eecdf5959acb953302590b059d3aee3cc8092ef62ea9ea48492
   gpgsign: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.5-doc-chm.7z.asc
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.4-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.4/ruby-2.1.4-doc-chm.7z
   name: Ruby 2.1.4 CHM
   sha256: df8b6c928672ab85b83ba1cd123ca0a932e3a691496c320f7919a89ea7b52f10
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.3-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.1.3/ruby-2.1.3-doc-chm.7z
   name: Ruby 2.1.3 CHM
   sha256: 415fffda5214d0e64fa42f68c02a79a2b50fb8f60711a2cfd2120f2504bdf26f
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p648-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p648/ruby-2.0.0-p648-doc-chm.7z
   name: Ruby 2.0.0-p648 documentation (CHM format)
   sha256: 42e37920515318c371ec53b5b43e1b11e979d6f5773fa42b1b69233a6aec4edf
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p647-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p647/ruby-2.0.0-p647-doc-chm.7z
   name: Ruby 2.0.0-p647 CHM
   sha256: 418dc7881cdad117efed30953859d89ece8cce77ae4f7ac587e6ab7845287ef3
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p643-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p643/ruby-2.0.0-p643-doc-chm.7z
   name: Ruby 2.0.0-p645 CHM
   sha256: '0987aaf19baed6f4754bfe46d45c0846ad2309c8e8f1ddf355627ad8baa663e5'
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p643-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p643/ruby-2.0.0-p643-doc-chm.7z
   name: Ruby 2.0.0-p643 CHM
   sha256: '0987aaf19baed6f4754bfe46d45c0846ad2309c8e8f1ddf355627ad8baa663e5'
   gpgsign: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p643-doc-chm.7z.asc
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p598-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p598/ruby-2.0.0-p598-doc-chm.7z
   name: Ruby 2.0.0-p598 CHM
   sha256: 8fa2fa102fdd5c5424610345b437d44e34a90553ad34974c26219ee8768b7ec1
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p594-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p594/ruby-2.0.0-p594-doc-chm.7z
   name: Ruby 2.0.0-p594 CHM
   sha256: ae9ded24b60c748d12e54a61ab7c2eec2a7cac9c9dca74890e8cd5c9694fdf98
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p576-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p576/ruby-2.0.0-p576-doc-chm.7z
   name: Ruby 2.0.0-p576 CHM
   sha256: fd7b61a11116e2277f9bc0736e56189fb986d2e57a56cbf7bb163cf861ef00d6
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p481-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p481/ruby-2.0.0-p481-doc-chm.7z
   name: Ruby 2.0.0-p481 CHM
   sha256: 7266bfc3fc3726dddeac816a178e562556b41f1605a2f96de3c408e6196da959
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p451-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p451/ruby-2.0.0-p451-doc-chm.7z
   name: Ruby 2.0.0-p451 CHM
   sha256: e1817fd7301aae2014310e0856f79c00f13bf9900bbd8c6e7b03efcd721d8a36
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p353-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p353/ruby-2.0.0-p353-doc-chm.7z
   name: Ruby 2.0.0-p353 CHM
   sha256: 13bedd5bac48f00df94f4b35e3c425780f82c0145ef9ed85035dd41e9ed4508b
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p247-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p247/ruby-2.0.0-p247-doc-chm.7z
   name: Ruby 2.0.0-p247 CHM
   sha256: dbfa723bae1b33a44ef77aa42a65ef4bd0ac54d31eb6d97c35a54c9b60fe6ffb
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p195-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p195/ruby-2.0.0-p195-doc-chm.7z
   name: Ruby 2.0.0-p195 CHM
+  sha256: 22d87ad862e56da8a94aaa02447dda744e3770d950b734c3e42a423c93e556b5
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p0-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-2.0.0-p0/ruby-2.0.0-p0-doc-chm.7z
   name: Ruby 2.0.0-p0 CHM
+  sha256: 224a54a7176db9544d74e5b64c50ca9f4e3ed4daf52e3a6e2c0b0db52dd5fee2
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p551-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p551/ruby-1.9.3-p551-doc-chm.7z
   name: Ruby 1.9.3-p551 CHM
   sha256: c6e9c67420ed8039b76f243dacc0b56232693d3f520b60668d2bd4348a11bb9e
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p550-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p550/ruby-1.9.3-p550-doc-chm.7z
   name: Ruby 1.9.3-p550 CHM
   sha256: e835fdffc2f76764d3bbc661d7a6f8eba827b1a1787956534227988c71232221
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p545-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p545/ruby-1.9.3-p545-doc-chm.7z
   name: Ruby 1.9.3-p545 CHM
   sha256: 65d5e13f7f9a1da9f936e1b9ce2df7ebd66d34054fc33d23aa0d9ceee9731291
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p484-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p484/ruby-1.9.3-p484-doc-chm.7z
   name: Ruby 1.9.3-p484 CHM
   sha256: f1b91201e4b2defbebf89808f215daff5455c5b39b61aba4ac9af9d3b6bc4b02
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p448-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p448/ruby-1.9.3-p448-doc-chm.7z
   name: Ruby 1.9.3-p448 CHM
   sha256: 3af782c7cf665e1902abc95333bb20ac1f2f77756e507e9422c81c1549528f1f
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p429-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p429/ruby-1.9.3-p429-doc-chm.7z
   name: Ruby 1.9.3-p429 CHM
+  sha256: 20da6741eed14d9a18bf4e89b4a96f5fa858678ea09eccb7d94f30c6a5fcbac9
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p392-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p392/ruby-1.9.3-p392-doc-chm.7z
   name: Ruby 1.9.3-p392 CHM
+  sha256: 2073cab6392a5a8e0576be26e1fa2b680305f1cfd042283a22b569741d522fba
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p385-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p385/ruby-1.9.3-p385-doc-chm.7z
   name: Ruby 1.9.3-p385 CHM
+  sha256: 6e3c7617f79126e19f7b576eaa2c77541cfe9c440441c2055cc7c62cb19ca06f
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p374-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p374/ruby-1.9.3-p374-doc-chm.7z
   name: Ruby 1.9.3-p374 CHM
+  sha256: 96569615936ffa2d2310d741ca38c3b59033d138535ab3f628a63a15891321f9
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p362-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p362/ruby-1.9.3-p362-doc-chm.7z
   name: Ruby 1.9.3-p362 CHM
+  sha256: 036d4037c263e8af812714875ae92f132000b7fb18c492b0080ddc64c4cb594f
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p327-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p327/ruby-1.9.3-p327-doc-chm.7z
   name: Ruby 1.9.3-p327 CHM
+  sha256: 6302f3690cfe74291039fdf1ddc3dcce1fc567f4cf4fd278ddfd3e906725c16e
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p286-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p286/ruby-1.9.3-p286-doc-chm.7z
   name: Ruby 1.9.3-p286 CHM
+  sha256: fae339f942c6ac4061dc6e4c4e3af74c6d5e66c120c9513e1924e8f8032caf8b
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p194-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p194/ruby-1.9.3-p194-doc-chm.7z
   name: Ruby 1.9.3-p194 CHM
+  sha256: 66e9f62f9d35ce6a0d0f4b2416ed0db01fb9576496641d0d3b92588ecc9fe915
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p125-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p125/ruby-1.9.3-p125-doc-chm.7z
   name: Ruby 1.9.3-p125 CHM
+  sha256: 01510103b8ce57d7b4631658884f3c94ec64b20211e83716e76a72a43712c8f0
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p0-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.3-p0/ruby-1.9.3-p0-doc-chm.7z
   name: Ruby 1.9.3-p0 CHM
+  sha256: 19f41c3938da50d2a4ce24c520667178c24adcbe3090f6d641ff22fad4654167
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.2-p290-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.2-p290/ruby-1.9.2-p290-doc-chm.7z
   name: Ruby 1.9.2-p290 CHM
+  sha256: 500fc493d1880a132135b2e5a3eff03221e8776902162558f3558e8d85e6116d
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.2-p180-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.2-p180/ruby-1.9.2-p180-doc-chm.7z
   name: Ruby 1.9.2-p180 CHM
+  sha256: ad95f33a98c7b63ae8978387aad3f92e6274b54aae723595d70bab6eee55bf0a
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.2-p136-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.2-p136/ruby-1.9.2-p136-doc-chm.7z
   name: Ruby 1.9.2-p136 CHM
+  sha256: 7d549d7e5e8f0df19b588f84950550ab34fcd6d3885cca4cafab7cab0558b020
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.2-p0-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.9.2-p0/ruby-1.9.2-p0-doc-chm.7z
   name: Ruby 1.9.2-p0 CHM
+  sha256: 8f64af64c937470a01908b3288481340fba3960eddd1cb67a3ed1a58621b8eb7
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.8.7-p374-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p374/ruby-1.8.7-p374-doc-chm.7z
   name: Ruby 1.8.7-p374 CHM
   sha256: 5b390546c9ad972fec5678a93260d5ddc5e522b243c36af85b0f75b71bc5aaa5
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.8.7-p371-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p371/ruby-1.8.7-p371-doc-chm.7z
   name: Ruby 1.8.7-p371 CHM
+  sha256: 48a17fcd0f41a82f0e73f23fd21a87b435958f6f40414d514f7f528772f39385
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.8.7-p370-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p370/ruby-1.8.7-p370-doc-chm.7z
   name: Ruby 1.8.7-p370 CHM
+  sha256: 925bee2d104695bd7e354294840a728b28eab25bd56c8ce05f32ea6333482bdb
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.8.7-p358-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p358/ruby-1.8.7-p358-doc-chm.7z
   name: Ruby 1.8.7-p358 CHM
+  sha256: 22a980f7d069052daeec9debc1c92c45c9a4bd10517555996383bfe53f991bd1
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.8.7-p357-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p357/ruby-1.8.7-p357-doc-chm.7z
   name: Ruby 1.8.7-p357 CHM
+  sha256: c7a0baeec2a756ef475b846ad308f88f027556d3a3e5530e08027ce27f8a0b1c
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.8.7-p352-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p352/ruby-1.8.7-p352-doc-chm.7z
   name: Ruby 1.8.7-p352 CHM
+  sha256: '091536172e10920eb03316d9b31f604120d1a4690da1d232ec3fea4051852cf0'
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.8.7-p334-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p334/ruby-1.8.7-p334-doc-chm.7z
   name: Ruby 1.8.7-p334 CHM
+  sha256: 5cbfb5a4b5912f8f1c6bc2698b347241776e64a3fe370d9f59ee95d72a312d7d
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.8.7-p330-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p330/ruby-1.8.7-p330-doc-chm.7z
   name: Ruby 1.8.7-p330 CHM
+  sha256: dd6df5d4cc9554d197cf8f4c91648a7ad68b5bf15796094fdcadbd57b2fcf8eb
 - filetype: rubychm7z
-  href: https://dl.bintray.com/oneclick/rubyinstaller/ruby-1.8.7-p302-doc-chm.7z
+  href: https://github.com/oneclick/rubyinstaller/releases/download/ruby-1.8.7-p302/ruby-1.8.7-p302-doc-chm.7z
   name: Ruby 1.8.7-p302 CHM
+  sha256: b9c91160a310a57e105e53bc37a99787c630b4ca25df9924d27ee93c66b68fbd
 - filetype: devkitsfx
-  href: https://dl.bintray.com/oneclick/rubyinstaller/defunct/DevKit-tdm-32-4.5.2-20110712-1620-sfx.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/DevKit-tdm-32-4.5.2/DevKit-tdm-32-4.5.2-20110712-1620-sfx.exe
   name: DevKit-tdm-32-4.5.2-20110712-1620-sfx.exe
+  sha256: 6230d9e552e69823b83d6f81a5dadc06958d7a17e10c3f8e525fcc61b300b2ef
 - filetype: devkitsfx
-  href: https://dl.bintray.com/oneclick/rubyinstaller/DevKit-tdm-32-4.5.1-20101214-1400-sfx.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/DevKit-tdm-32-4.5.1/DevKit-tdm-32-4.5.1-20101214-1400-sfx.exe
   name: DevKit-tdm-32-4.5.1-20101214-1400-sfx.exe
+  sha256: 0c9b9eead224fa46e053461d7d9c42524b25d081e1ef6c69cffb6dc01d2d3c41
 - filetype: devkitsfx
-  href: https://dl.bintray.com/oneclick/rubyinstaller/DevKit-4.5.0-20100819-1536-sfx.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/DevKit-4.5.0/DevKit-4.5.0-20100819-1536-sfx.exe
   name: DevKit-4.5.0-20100819-1536-sfx.exe
+  sha256: 2f6811119ef994caedbf556458a4bfa29b70e304261c597ba218465ed79c7aa5
 - filetype: devkitsfx
-  href: https://dl.bintray.com/oneclick/rubyinstaller/DevKit-3.4.5-20100819-1535-sfx.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/DevKit-3.4.5/DevKit-3.4.5-20100819-1535-sfx.exe
   name: DevKit-3.4.5-20100819-1535-sfx.exe
+  sha256: 16fed44e7e79913800925ce531671ac32417716fb6bd1cb2198da7b43e974eb6
 - filetype: devkitsfx
-  href: https://dl.bintray.com/oneclick/rubyinstaller/DevKit-tdm-32-4.5.2-20111229-1559-sfx.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/DevKit-tdm-32-4.5.2/DevKit-tdm-32-4.5.2-20111229-1559-sfx.exe
   name: DevKit-tdm-32-4.5.2-20111229-1559-sfx.exe
+  sha256: 6c3af5487dafda56808baf76edd262b2020b1b25ab86aabf972629f4a6a54491
 - filetype: devkitsfx
-  href: https://dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/devkit-4.7.2/DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe
   name: DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe
   show: 32
 - filetype: devkitsfx
-  href: https://dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe
+  href: https://github.com/oneclick/rubyinstaller/releases/download/devkit-4.7.2/DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe
   name: DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe
   show: 64
