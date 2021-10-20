@@ -27,3 +27,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'wdm', '>= 0.1.0'
 
 gem 'octokit', '~> 4.0'
+
+gem 'pkcs11' # for "rake signtool:list-keys"
