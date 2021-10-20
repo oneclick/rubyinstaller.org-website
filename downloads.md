@@ -28,7 +28,7 @@ Find out more in the [FAQ](https://github.com/oneclick/rubyinstaller2/wiki/FAQ#u
 RubyInstaller-head is a daily-updated version of the [Ruby development branch](https://github.com/ruby/ruby/).
 It can be used for continuous integration tests (CI) on your gems or applications, so you're prepared for upcoming changes to the Ruby core.
 Builds are available on stable download URIs in the [github release section](https://github.com/oneclick/rubyinstaller2/releases/tag/rubyinstaller-head).
-They can be easily [integrated into Appveyor](https://github.com/oneclick/rubyinstaller2/wiki/For-gem-developers#user-content-appveyor).
+They can be easily [integrated into Github Actions](https://github.com/oneclick/rubyinstaller2/wiki/For-gem-developers#user-content-github-actions) or [Appveyor](https://github.com/oneclick/rubyinstaller2/wiki/For-gem-developers#user-content-appveyor).
 
 
 ### With Development Kit?
