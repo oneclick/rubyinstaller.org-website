@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "RubyInstaller 3.0.2-1, 2.7.4-1 and 2.6.8-1 released"
-author: Lars Kanis
+author: Shaun Mabbs
 ---
 RubyInstaller versions 3.0.2-1, 2.7.4-1 and 2.6.8-1 are released. These are maintenance releases with bug and security fixes.
 

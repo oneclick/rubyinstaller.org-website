@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "RubyInstaller 3.0.3-1, 2.7.5-1 and 2.6.9-1 released"
-author: Shaun Mabbs
+author: Lars Kanis
 ---
 RubyInstaller versions 3.0.3-1, 2.7.5-1 and 2.6.9-1 are released. These are maintenance releases with bug and security fixes.
 
