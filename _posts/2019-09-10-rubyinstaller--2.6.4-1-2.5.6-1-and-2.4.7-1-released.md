@@ -9,3 +9,4 @@ See [ruby-2.4.7 release notes](https://www.ruby-lang.org/en/news/2019/08/28/ruby
 Bundled OpenSSL versions are updated to 1.0.2s (Ruby-2.4.x) and 1.1.1c (Ruby-2.5+).
 
 All binaries are available in the [Download section]({{ "/downloads/" | relative_url }})!
+
