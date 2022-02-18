@@ -5,21 +5,21 @@ permalink: /downloads/
 ---
 ### Which version to download?
 
-If you don't know what version to install and you're getting started with Ruby, we recommend that you use the <b>Ruby+Devkit 2.7.X (x64)</b> installer.
+If you don't know what version to install and you're getting started with Ruby, we recommend that you use the <b>Ruby+Devkit 3.1.X (x64)</b> installer.
 It provides the biggest number of compatible gems and installs the MSYS2 Devkit alongside Ruby, so gems with C-extensions can be compiled immediately.
 The 32 bit (x86) version is recommended only if custom 32 bit native DLLs or COM objects have to be used.
 
 
 ### How to update?
 
-Ruby can be updated to the latest patch version (e.g. from 2.6.1 to 2.6.4) by running the new installer version.
+Ruby can be updated to the latest patch version (e.g. from 3.0.0 to 3.0.3) by running the new installer version.
 Installed gems are not overwritten and will work with the new version without re-installation.
 It's sufficient to use the RubyInstaller without Devkit for these update installations.
 The Devkit can be updated separately using the `ridk install` command.
 
 If the new Ruby version is from a different stable branch, then please use a new target directory for installation.
-That is to say, a previous RubyInstaller-2.6.x installation <b>should not</b> be updated by installing RubyInstaller-2.7.x into the same directory.
-This is because gems with C extensions are not compatible between ruby-2.6 and 2.7.
+That is to say, a previous RubyInstaller-3.0.x installation <b>should not</b> be updated by installing RubyInstaller-3.1.x into the same directory.
+This is because gems with C extensions are not compatible between ruby-3.0 and 3.1.
 Find out more in the [FAQ](https://github.com/oneclick/rubyinstaller2/wiki/FAQ#user-content-update-install).
 
 
