@@ -1,6 +1,6 @@
 ---
 layout: about
-titel: Introduction
+title: Introduction
 permalink: /about/
 order: 10
 ---

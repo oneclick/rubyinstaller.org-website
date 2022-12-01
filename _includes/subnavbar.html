@@ -3,9 +3,9 @@
     {% assign items = (include.items | sort: "order") %}
     {% for item in items %}
       {% if page.url == item.url %}
-        <li class='current'><span>{{ item.titel }}</span></li>
+        <li class='current'><span>{{ item.title }}</span></li>
       {% else %}
-        <li><a href="{{ item.url | relative_url }}">{{ item.titel }}</a></li>
+        <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
       {% endif %}
     {% endfor %}
   </ul>

@@ -1,6 +1,6 @@
 ---
 layout: add-on
-titel:  "uru"
+title:  "uru"
 order: 10
 ---
 ## Unleash Ruby
