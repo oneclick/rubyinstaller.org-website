@@ -1,6 +1,6 @@
 ---
 layout: add-on
-titel:  "Rake Compiler Dock"
+title:  "Rake Compiler Dock"
 order: 40
 ---
 ## Rake Compiler Dock

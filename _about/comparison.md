@@ -1,6 +1,6 @@
 ---
 layout: about
-titel: Is this for you?
+title: Is this for you?
 permalink: /about/comparison/
 order: 15
 ---

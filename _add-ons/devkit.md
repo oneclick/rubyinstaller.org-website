@@ -1,6 +1,6 @@
 ---
 layout: add-on
-titel:  "MSYS2 / DevKit"
+title:  "MSYS2 / DevKit"
 order: 20
 ---
 ## Meet MSYS and the DevKit

@@ -1,6 +1,6 @@
 ---
 layout: about
-titel: Project contributors
+title: Project contributors
 permalink: /about/contributors/
 order: 20
 ---

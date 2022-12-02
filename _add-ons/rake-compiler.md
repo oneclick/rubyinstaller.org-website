@@ -1,6 +1,6 @@
 ---
 layout: add-on
-titel:  "Rake Compiler"
+title:  "Rake Compiler"
 order: 30
 ---
 ## Rake Compiler
