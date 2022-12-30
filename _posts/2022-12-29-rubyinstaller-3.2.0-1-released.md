@@ -12,9 +12,9 @@ The RubyInstaller setup now offers a system wide installation which requires adm
 
 ![installer_all_users](/assets/installer_all_users.png){:class="img-responsive"}
 
-In this case ordinary users can use a common ruby installation, but don't have write permissions to the ruby directory.
+In this case ordinary users can use a common ruby installation, but don't get write permissions to the ruby directory.
 Gems can either be installed centrally by an administrator or are automatically redirected to a private per-user folder.
-See out Wiki for further [description of the install modes](https://github.com/oneclick/rubyinstaller2/wiki/FAQ#user-content-install-mode).
+See our Wiki for further [description of the install modes](https://github.com/oneclick/rubyinstaller2/wiki/FAQ#user-content-install-mode).
 
 RubyInstaller-3.2.0 changes the libssl library to OpenSSL-3.
 This has several implications on the Ruby API and disables support for legacy cryptographic algorithms.
