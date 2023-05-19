@@ -1,9 +1,8 @@
 $(function() {
-  var copyBtn = $(".js-copybtn");
-  copyBtn.click(function(event) {
-    var input = $(this).prev(".js-copytextinput");
-    input.select();
-    document.execCommand("copy");
+  $(".js-copybtn").click(function(event) {
+    var $input = $(this).prev(".js-copytextinput");
+    $input.trigger("select")
+    navigator.clipboard.writeText($input.val());
   });
 
   $("a.downloadinfo").click(function () {
