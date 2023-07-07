@@ -7,7 +7,7 @@ permalink: /downloads/
 
 If you don't know what version to install and you're getting started with Ruby, we recommend that you use the <b>Ruby+Devkit 3.2.X (x64)</b> installer.
 It provides the biggest number of compatible gems and installs the MSYS2 Devkit alongside Ruby, so gems with C-extensions can be compiled immediately.
-The 32 bit (x86) version is recommended only if custom 32 bit native DLLs or COM objects have to be used.
+The 32 bit (x86) version is not recommended, unless custom 32 bit native DLLs or COM objects have to be used.
 
 
 ### How to update?
