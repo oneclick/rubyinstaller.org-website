@@ -277,11 +277,17 @@ namespace "signtool" do
     pkcs11 = PKCS11.open("_codesign/certum/sc30pkcs11-3.0.5.60-MS.so")
     s = pkcs11.active_slots.last.open
     s.login(:USER, sign_card_password.to_s)
-    s.find_objects(:CLASS => PKCS11::CKO_PRIVATE_KEY).to_enum.with_index do |obj, kidx|
+    s.find_objects(CLASS: PKCS11::CKO_PRIVATE_KEY).to_enum.with_index do |obj, kidx|
       puts "========== Key #{kidx} =========="
-      puts "ID: #{obj[:ID].unpack("H*")[0]}"
-      puts "SUBJECT: #{OpenSSL::X509::Name.new(obj[:SUBJECT])}" if obj[:SUBJECT]
-      puts "LABEL: #{obj[:LABEL]}"
+      puts "ID: #{obj[:ID].unpack1("H*")}"
+      puts "Modulus: #{obj[:MODULUS][0..7].unpack1("H*")}...#{obj[:MODULUS][-8..-1].unpack1("H*")}"
+
+      # Show other attributes:
+      # puts "SUBJECT: #{OpenSSL::X509::Name.new(obj[:SUBJECT])}" if obj[:SUBJECT]
+      # puts "LABEL: #{obj[:LABEL]}"
+      # PKCS11.constants.grep(/^CKA_/).each do |at|
+      #   puts "#{at}: #{obj[PKCS11.const_get(at)].inspect}" rescue nil
+      # end
     end
   end
 end
