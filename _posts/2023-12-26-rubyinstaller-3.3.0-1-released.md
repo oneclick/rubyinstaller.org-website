@@ -8,7 +8,7 @@ It features a whole bunch of great new features and improvements.
 See the [ruby-3.3.0 release post](https://www.ruby-lang.org/en/news/2023/12/25/ruby-3-3-0-released/) and the [RubyInstaller-CHANGELOG](https://github.com/oneclick/rubyinstaller2/blob/master/CHANGELOG-3.3.md#rubyinstaller-330-1---2023-12-26) for more details.
 
 The new RJIT and the performance improvements to YJIT are not available on Windows, but most of the other improvements are.
-For instance the `irb` has got even more enhancements and but fixes. See [here](https://railsatscale.com/2023-12-19-irb-for-ruby-3-3/).
+For instance the `irb` has got even more enhancements and bug fixes. See [here](https://railsatscale.com/2023-12-19-irb-for-ruby-3-3/).
 
 Please note, that some gems are not yet compatible with Ruby-3.3 on Windows.
 In this case you might stay on 3.2 until 3.3 is well supported.
