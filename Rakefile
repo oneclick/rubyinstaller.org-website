@@ -70,7 +70,7 @@ def upload_github_exe_asset(fr, repo: "oneclick/rubyinstaller2")
   retries = 0
   begin
     asset = client.upload_asset(release.url, fname, content_type: "application/vnd.microsoft.portable-executable")
-  rescue Octokit::ServerError => err
+  rescue Octokit::ServerError, Faraday::TimeoutError => err
     raise if (retries+=1) > 2
     puts "Retry #{retries} after error: #{err}"
     retry
