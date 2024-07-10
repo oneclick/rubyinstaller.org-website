@@ -38,7 +38,7 @@ It is bundled into the <b>Ruby+Devkit</b> installer version as a selectable comp
 It's possible to [share one Devkit](https://github.com/oneclick/rubyinstaller2/wiki/FAQ#user-content-shared-devkit) among multiple versions of Ruby.
 
 MSYS2 is required in order to build native C/C++ extensions for Ruby and is necessary for [Ruby on Rails](http://rubyonrails.org/).
-Moreover it allows the download and usage of [hundreds of Open Source libraries](https://github.com/Alexpux/MINGW-packages) which Ruby gems often depend on.
+Moreover it allows the download and usage of [hundreds of Open Source libraries](https://github.com/msys2/MINGW-packages) which Ruby gems often depend on.
 
 The MSYS2 development environment can be activated in a running `cmd` or powershell console by `ridk enable`.
 This adds commands like `make`, `gcc`, `pacman` or `sh` to the search path.
@@ -48,7 +48,7 @@ See more in the [Wiki](https://github.com/oneclick/rubyinstaller2/wiki/The-ridk-
 ### Speed and Convenience
 
 RubyInstaller is compiled with the latest GCC at the release date.
-The installed Ruby is a native Windows application but combines this with the rich UNIX toolset of [MSYS2](http://www.msys2.org) and the [large repository of MINGW libraries](https://github.com/Alexpux/MINGW-packages).
+The installed Ruby is a native Windows application but combines this with the rich UNIX toolset of [MSYS2](http://www.msys2.org) and the [large repository of MINGW libraries](https://github.com/msys2/MINGW-packages).
 
 Read more about RubyInstaller and its alternatives [here]({{ "/about/comparison" | relative_url }}).
 
