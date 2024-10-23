@@ -171,7 +171,7 @@ namespace "release" do
       else
         puts "Add signature to exe file #{fname}"
         File.rename(fname, old_file)
-        sh "osslsigncode sign -verbose -pkcs11engine /usr/lib/x86_64-linux-gnu/engines-3/libpkcs11.so -pkcs11module _codesign/certum/sc30pkcs11-3.0.5.60-MS.so -certs _codesign/certum/3ade930adc9e8bc4de4257b22ca2d3f9.pem -key 739d150ea2185d25c2f7bcd34cc8b733126686cb -h sha256  -pass #{password.inspect} -t http://time.certum.pl/ -in #{old_file} -out #{fname}"
+        sh "osslsigncode sign -verbose -pkcs11engine /usr/lib/x86_64-linux-gnu/engines-3/libpkcs11.so -pkcs11module _codesign/certum/sc30pkcs11-3.0.5.60-MS.so -certs _codesign/certum/726dd33928c97066c4405d86db82e5d8.pem -key 2c9ac62eae8052d299c3e72876295787ceac2226 -h sha256  -pass #{password.inspect} -t http://time.certum.pl/ -in #{old_file} -out #{fname}"
 
         sh "osslsigncode verify #{fname}"
       end
