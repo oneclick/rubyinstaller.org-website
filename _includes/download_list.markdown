@@ -1,6 +1,6 @@
 ## RubyInstallers <a id="archive" href="{{ "/downloads/archives" | relative_url }}">Archives</a>
 
-Not sure what version to download? Please read the right-hand column for recommendations.
+Looking for an 🔥**ARM64 version**🔥? There's a [fundraiser to buy the main developer of RubyInstaller a notebook](https://www.gofundme.com/f/port-and-maintain-rubyinstaller-for-windows-on-arm64) with ARM processor to make it happen.
 
 ###  with Devkit
 
