@@ -193,7 +193,6 @@
   name: Ruby+Devkit 3.3.4-1 (x64)
   sha256: 1f2605ef1e39d2d2665723bf23c4913d0d3bc01a8ce790f922f75bb6749a2aae
   gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.3.4-1/rubyinstaller-devkit-3.3.4-1-x64.exe.asc
-  recommended: true
 - filetype: ridkexe
   href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.3.4-1/rubyinstaller-devkit-3.3.4-1-x86.exe
   name: Ruby+Devkit 3.3.4-1 (x86)
