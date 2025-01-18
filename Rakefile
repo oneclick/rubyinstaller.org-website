@@ -117,7 +117,7 @@ def asset_to_attrs(asset)
   end
 
   name = case asset.name
-    when /rubyinstaller(-devkit)?-([-\d\.]+)-([x\d]+)\.(7z|exe)$/ then $1 ? "Ruby+Devkit #{$2} (#{$3})" : "Ruby #{$2} (#{$3})"
+    when /rubyinstaller(-devkit)?-([-\d\.]+)-([x\d]+|arm)\.(7z|exe)$/ then $1 ? "Ruby+Devkit #{$2} (#{$3})" : "Ruby #{$2} (#{$3})"
     else raise "unknown asset name #{asset.name.inspect}"
   end
 
