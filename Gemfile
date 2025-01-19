@@ -29,3 +29,6 @@ gem 'wdm', '>= 0.1.0'
 gem 'octokit', '~> 4.0'
 
 gem 'pkcs11' # for "rake signtool:list-keys"
+
+gem 'csv' # workaround on ruby-3.4
+gem 'base64' # workaround on ruby-3.4
