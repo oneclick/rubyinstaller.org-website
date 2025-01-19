@@ -12,6 +12,12 @@ This fundraiser was successful and I started to work on the new port.
 
 Now Ruby-3.4.1 is available as a ARM package, but not only that: Ruby-head is [available here](https://github.com/oneclick/rubyinstaller2/releases/tag/rubyinstaller-head).
 
+The RubyInstaller-Devkit package consists of the LLVM based C and C++ compilers which run natively on ARM.
+This makes the package almost twice as big than the x64/x86 versions.
+In contrast the MSYS2 toolset, which provides Unix tools like `make` and `bash`, is not yet ported to ARM.
+It is delivered as x64 code, running on the Prism emulator of Windows-11.
+That's why only the RubyInstaller version without Devkit will work on Windows-10.
+
 The ARM version required some changes to the side-by-side DLL loading mechanism and it is solved in such a way that also fixes [a longstanding issue on x64/x86](https://github.com/oneclick/rubyinstaller2/issues/60).
 Unfortunately these changes are too heavy to be backported to ruby-3.3 and older, so that no ARM package of these older ruby versions will be released.
 
