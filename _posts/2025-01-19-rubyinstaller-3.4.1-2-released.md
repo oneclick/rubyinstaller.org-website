@@ -11,6 +11,10 @@ Last November I started [a fundraiser]({{ "/2024/11/20/fundraiser-for-arm64" | r
 This fundraiser was successful and I started to work on the new port.
 
 Now Ruby-3.4.1 is available as a ARM package, but not only that: Ruby-head is [available here](https://github.com/oneclick/rubyinstaller2/releases/tag/rubyinstaller-head).
+```
+ruby 3.4.1 (2024-12-25 revision 48d4efcb85) +PRISM [aarch64-mingw-ucrt]
+ruby 3.5.0dev (2025-01-19 master f27ed98eff) +PRISM [aarch64-mingw-ucrt]
+```
 
 The RubyInstaller-Devkit package consists of the LLVM based C and C++ compilers which run natively on ARM.
 This makes the package almost twice as big than the x64/x86 versions.
@@ -18,7 +22,7 @@ In contrast the MSYS2 toolset, which provides Unix tools like `make` and `bash`,
 It is delivered as x64 code, running on the Prism emulator of Windows-11.
 That's why only the RubyInstaller version without Devkit will work on Windows-10.
 
-The ARM version required some changes to the side-by-side DLL loading mechanism and it is solved in such a way that also fixes [a longstanding issue on x64/x86](https://github.com/oneclick/rubyinstaller2/issues/60).
+The ARM version required some changes to the side-by-side DLL loading mechanism and it is solved in such a way, that also fixes [a longstanding issue on x64/x86](https://github.com/oneclick/rubyinstaller2/issues/60).
 Unfortunately these changes are too heavy to be backported to ruby-3.3 and older, so that no ARM package of these older ruby versions will be released.
 
 Next steps to the ruby ecosystem will follow like adding `aarch64-mingw-ucrt` [support to rake-compiler-dock](https://github.com/rake-compiler/rake-compiler-dock/issues/148).
@@ -30,7 +34,7 @@ In this case you might use the Ruby-3.3 x64 version, which is well supported.
 
 Beside the work on ARM there's also some work pending to add RubyInstaller to the [Microsoft Store](https://apps.microsoft.com).
 A first necessary change was made to the uninstaller.
-It removes installed gems and MSYS2 per default.
+It now removes installed gems and MSYS2 per default.
 So be careful running the `unins000.exe` file in the ruby install directory!
 The old behavior can be get with the option `/allfiles=no` as described [in the wiki](https://github.com/oneclick/rubyinstaller2/wiki/FAQ#q-how-do-i-perform-a-silentunattended-install-with-the-rubyinstaller).
 
@@ -39,3 +43,7 @@ This is because gems with C extensions are not compatible between ruby-3.3 and 3
 It's best to use a new directory for 3.4.x as proposed by the installer.
 
 All binaries are available in the [Download section]({{ "/downloads/" | relative_url }})!
+
+PS: I've got a Lenovo YOGA notebook with Snapdragon X processor and it has indeed impressive performance.
+It even outperforms my desktop computer when running compiler tasks.
+Windows runs fine including WSL2 but also [Ubuntu](https://discourse.ubuntu.com/t/ubuntu-24-10-concept-snapdragon-x-elite) is very usable already.
