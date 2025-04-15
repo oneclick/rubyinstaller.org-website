@@ -1,58 +1,103 @@
 ---
 - filetype: rubyinstaller7z
+  href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.3-1/rubyinstaller-3.4.3-1-arm.7z
+  name: Ruby 3.4.3-1 (arm)
+  sha256: f91520e8fc3a6fb54a1d4e58a7e1c10a9cfdd43aad8aa3d0b66a32a3a05d21c2
+  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.3-1/rubyinstaller-3.4.3-1-arm.7z.asc
+  show: true
+- filetype: rubyinstallerexe
+  href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.3-1/rubyinstaller-3.4.3-1-arm.exe
+  name: Ruby 3.4.3-1 (arm)
+  sha256: 6bec3e05af0a9d05678e4985638483be1effbd73d846ed402dd05437ef7a5253
+  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.3-1/rubyinstaller-3.4.3-1-arm.exe.asc
+  show: true
+- filetype: rubyinstaller7z
+  href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.3-1/rubyinstaller-3.4.3-1-x64.7z
+  name: Ruby 3.4.3-1 (x64)
+  sha256: d4c26b729bad2351bb7403579e522a2a98d023a6a46c2a8698d3ac6004921013
+  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.3-1/rubyinstaller-3.4.3-1-x64.7z.asc
+  show: true
+- filetype: rubyinstallerexe
+  href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.3-1/rubyinstaller-3.4.3-1-x64.exe
+  name: Ruby 3.4.3-1 (x64)
+  sha256: e943e05c3680b1e0e7166273614818847f0edeea0a111b60d85b73390b988fad
+  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.3-1/rubyinstaller-3.4.3-1-x64.exe.asc
+  show: true
+- filetype: rubyinstaller7z
+  href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.3-1/rubyinstaller-3.4.3-1-x86.7z
+  name: Ruby 3.4.3-1 (x86)
+  sha256: c00f7a78d7484bae8b31de0f8c715d8feeb3e5cf5b3616da7396da217047fee7
+  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.3-1/rubyinstaller-3.4.3-1-x86.7z.asc
+  show: true
+- filetype: rubyinstallerexe
+  href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.3-1/rubyinstaller-3.4.3-1-x86.exe
+  name: Ruby 3.4.3-1 (x86)
+  sha256: deb8dc55bbaa5c853c66cf19035beef4f7a3e51ec3a5bede3a0dba84a4224bbe
+  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.3-1/rubyinstaller-3.4.3-1-x86.exe.asc
+  show: true
+- filetype: ridkexe
+  href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.3-1/rubyinstaller-devkit-3.4.3-1-arm.exe
+  name: Ruby+Devkit 3.4.3-1 (arm)
+  sha256: cdcaa058acf05d191e0b634137ce0f972a82a25f561245d042529f63d3ba634a
+  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.3-1/rubyinstaller-devkit-3.4.3-1-arm.exe.asc
+  show: true
+- filetype: ridkexe
+  href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.3-1/rubyinstaller-devkit-3.4.3-1-x64.exe
+  name: Ruby+Devkit 3.4.3-1 (x64)
+  sha256: a98122a3cc2b39dc2391e4a0070ec1208b8287b99dfb3c6ef514e8e08df028ba
+  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.3-1/rubyinstaller-devkit-3.4.3-1-x64.exe.asc
+  show: true
+- filetype: ridkexe
+  href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.3-1/rubyinstaller-devkit-3.4.3-1-x86.exe
+  name: Ruby+Devkit 3.4.3-1 (x86)
+  sha256: 839bf38f8b4d5e02106895dab7bc93abef1dee706cf7f1d22ac1948518057c7b
+  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.3-1/rubyinstaller-devkit-3.4.3-1-x86.exe.asc
+  show: true
+- filetype: rubyinstaller7z
   href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.2-1/rubyinstaller-3.4.2-1-arm.7z
   name: Ruby 3.4.2-1 (arm)
   sha256: 83f451827cc0bda8ef69caa36c411bfe588c12b864fc82ae15d6ff074bdb4c18
   gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.2-1/rubyinstaller-3.4.2-1-arm.7z.asc
-  show: true
 - filetype: rubyinstallerexe
   href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.2-1/rubyinstaller-3.4.2-1-arm.exe
   name: Ruby 3.4.2-1 (arm)
   sha256: 93fde2966e8dc99a9028939bf32a832510ebd3e33d6640cff27b51b12b22d955
   gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.2-1/rubyinstaller-3.4.2-1-arm.exe.asc
-  show: true
 - filetype: rubyinstaller7z
   href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.2-1/rubyinstaller-3.4.2-1-x64.7z
   name: Ruby 3.4.2-1 (x64)
   sha256: 99f2bc97a0f905e4b4ae081a12f757a228824b88b44d7788c31b28f3dc5567e9
   gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.2-1/rubyinstaller-3.4.2-1-x64.7z.asc
-  show: true
 - filetype: rubyinstallerexe
   href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.2-1/rubyinstaller-3.4.2-1-x64.exe
   name: Ruby 3.4.2-1 (x64)
   sha256: 69f56edf5dc0b46781a174c49729f01fc6e84c8b8b4986b61c88f72f63c3c6d6
   gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.2-1/rubyinstaller-3.4.2-1-x64.exe.asc
-  show: true
 - filetype: rubyinstaller7z
   href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.2-1/rubyinstaller-3.4.2-1-x86.7z
   name: Ruby 3.4.2-1 (x86)
   sha256: 6ad1ec1e3aab2abd90359decb7b4be91859c751f7153c67a11465fc874b21857
   gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.2-1/rubyinstaller-3.4.2-1-x86.7z.asc
-  show: true
 - filetype: rubyinstallerexe
   href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.2-1/rubyinstaller-3.4.2-1-x86.exe
   name: Ruby 3.4.2-1 (x86)
   sha256: 67e68f0a2763a1c7585b5fc24aacf24c1e9e2aed480cf1d90cb3e91076f9150f
   gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.2-1/rubyinstaller-3.4.2-1-x86.exe.asc
-  show: true
 - filetype: ridkexe
   href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.2-1/rubyinstaller-devkit-3.4.2-1-arm.exe
   name: Ruby+Devkit 3.4.2-1 (arm)
   sha256: f054851866cb35d59785a2218d3d5c61843e40762521939e21fb0befa6ef91d0
   gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.2-1/rubyinstaller-devkit-3.4.2-1-arm.exe.asc
-  show: true
 - filetype: ridkexe
   href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.2-1/rubyinstaller-devkit-3.4.2-1-x64.exe
   name: Ruby+Devkit 3.4.2-1 (x64)
   sha256: a9f499b291a1f652d8a0c90749b32775d7853f34e98afb19c1f20b7d440eacb9
   gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.2-1/rubyinstaller-devkit-3.4.2-1-x64.exe.asc
-  show: true
 - filetype: ridkexe
   href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.2-1/rubyinstaller-devkit-3.4.2-1-x86.exe
   name: Ruby+Devkit 3.4.2-1 (x86)
   sha256: d19d935f5d34df2fff4982da83b7c4ed1cb3a841575d275ea5ebc11008c0748c
   gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.2-1/rubyinstaller-devkit-3.4.2-1-x86.exe.asc
-  show: true
 - filetype: rubyinstaller7z
   href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.1-2/rubyinstaller-3.4.1-2-x64.7z
   name: Ruby 3.4.1-2 (x64)
