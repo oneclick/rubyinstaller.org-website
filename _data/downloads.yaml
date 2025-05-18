@@ -17,7 +17,6 @@
   sha256: 29fe655a8bee91d6466e631ae612142a1c5d68d46323ccca7f35add2dbb28b51
   gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.4-2/rubyinstaller-3.4.4-2-x64.7z.asc
   show: true
-  recommended: true
 - filetype: rubyinstallerexe
   href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.4-2/rubyinstaller-3.4.4-2-x64.exe
   name: Ruby 3.4.4-2 (x64)
@@ -48,6 +47,7 @@
   sha256: 013aed0f658cd7139eec56bed861e246f17707b8501891a2be3a93f833bb858e
   gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.4-2/rubyinstaller-devkit-3.4.4-2-x64.exe.asc
   show: true
+  recommended: true
 - filetype: ridkexe
   href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.4-2/rubyinstaller-devkit-3.4.4-2-x86.exe
   name: Ruby+Devkit 3.4.4-2 (x86)
