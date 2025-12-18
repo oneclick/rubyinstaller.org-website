@@ -1,58 +1,58 @@
 ---
 - filetype: rubyinstaller7z
-  href: https://github.com/oneclick/rubyinstaller2/releases/download/untagged-d58bac3a74941c8b0ccb/rubyinstaller-3.4.8-1-arm.7z
+  href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.8-1/rubyinstaller-3.4.8-1-arm.7z
   name: Ruby 3.4.8-1 (arm)
   sha256: 57a08041d5a974aa40732ef71c5b6da8873e32d4855b712faa2ed4c1d6c43317
-  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/untagged-d58bac3a74941c8b0ccb/rubyinstaller-3.4.8-1-arm.7z.asc
+  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.8-1/rubyinstaller-3.4.8-1-arm.7z.asc
   show: true
 - filetype: rubyinstallerexe
-  href: https://github.com/oneclick/rubyinstaller2/releases/download/untagged-d58bac3a74941c8b0ccb/rubyinstaller-3.4.8-1-arm.exe
+  href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.8-1/rubyinstaller-3.4.8-1-arm.exe
   name: Ruby 3.4.8-1 (arm)
   sha256: 37e14ef86e5b623af95fa751ce4cda7ebcc04a67ef4afc169922786e53418be8
-  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/untagged-d58bac3a74941c8b0ccb/rubyinstaller-3.4.8-1-arm.exe.asc
+  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.8-1/rubyinstaller-3.4.8-1-arm.exe.asc
   show: true
 - filetype: rubyinstaller7z
-  href: https://github.com/oneclick/rubyinstaller2/releases/download/untagged-d58bac3a74941c8b0ccb/rubyinstaller-3.4.8-1-x64.7z
+  href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.8-1/rubyinstaller-3.4.8-1-x64.7z
   name: Ruby 3.4.8-1 (x64)
   sha256: d1c3ba83ae748c08e35e0b1d9939d45dbca7925e0a8bf84a42860bf19847e0d6
-  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/untagged-d58bac3a74941c8b0ccb/rubyinstaller-3.4.8-1-x64.7z.asc
+  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.8-1/rubyinstaller-3.4.8-1-x64.7z.asc
   show: true
 - filetype: rubyinstallerexe
-  href: https://github.com/oneclick/rubyinstaller2/releases/download/untagged-d58bac3a74941c8b0ccb/rubyinstaller-3.4.8-1-x64.exe
+  href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.8-1/rubyinstaller-3.4.8-1-x64.exe
   name: Ruby 3.4.8-1 (x64)
   sha256: 39747ceb8b2ea13fcb8682e3b8ae447a093ba141b818736292ea93eb52257623
-  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/untagged-d58bac3a74941c8b0ccb/rubyinstaller-3.4.8-1-x64.exe.asc
+  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.8-1/rubyinstaller-3.4.8-1-x64.exe.asc
   show: true
 - filetype: rubyinstaller7z
-  href: https://github.com/oneclick/rubyinstaller2/releases/download/untagged-d58bac3a74941c8b0ccb/rubyinstaller-3.4.8-1-x86.7z
+  href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.8-1/rubyinstaller-3.4.8-1-x86.7z
   name: Ruby 3.4.8-1 (x86)
   sha256: 6635cd7a0a4be880ab781aef60dcbd8803e2d6e60455e62915f69f836b17f299
-  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/untagged-d58bac3a74941c8b0ccb/rubyinstaller-3.4.8-1-x86.7z.asc
+  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.8-1/rubyinstaller-3.4.8-1-x86.7z.asc
   show: true
 - filetype: rubyinstallerexe
-  href: https://github.com/oneclick/rubyinstaller2/releases/download/untagged-d58bac3a74941c8b0ccb/rubyinstaller-3.4.8-1-x86.exe
+  href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.8-1/rubyinstaller-3.4.8-1-x86.exe
   name: Ruby 3.4.8-1 (x86)
   sha256: 881eaf9101b7ebea50b1a7526d14065767f433d7314ac06a1aadfd5ffc80e3d6
-  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/untagged-d58bac3a74941c8b0ccb/rubyinstaller-3.4.8-1-x86.exe.asc
+  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.8-1/rubyinstaller-3.4.8-1-x86.exe.asc
   show: true
 - filetype: ridkexe
-  href: https://github.com/oneclick/rubyinstaller2/releases/download/untagged-d58bac3a74941c8b0ccb/rubyinstaller-devkit-3.4.8-1-arm.exe
+  href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.8-1/rubyinstaller-devkit-3.4.8-1-arm.exe
   name: Ruby+Devkit 3.4.8-1 (arm)
   sha256: 3803dd333b102d6ef216edc28ef50b3e107c35fcce3cad0e81e72386da93d091
-  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/untagged-d58bac3a74941c8b0ccb/rubyinstaller-devkit-3.4.8-1-arm.exe.asc
+  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.8-1/rubyinstaller-devkit-3.4.8-1-arm.exe.asc
   show: true
 - filetype: ridkexe
-  href: https://github.com/oneclick/rubyinstaller2/releases/download/untagged-d58bac3a74941c8b0ccb/rubyinstaller-devkit-3.4.8-1-x64.exe
+  href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.8-1/rubyinstaller-devkit-3.4.8-1-x64.exe
   name: Ruby+Devkit 3.4.8-1 (x64)
   sha256: f180056cceb8e1cef6e7f9f80e1cc97debc9a425fbbc00b102df88f00dec8f13
-  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/untagged-d58bac3a74941c8b0ccb/rubyinstaller-devkit-3.4.8-1-x64.exe.asc
+  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.8-1/rubyinstaller-devkit-3.4.8-1-x64.exe.asc
   show: true
   recommended: true
 - filetype: ridkexe
-  href: https://github.com/oneclick/rubyinstaller2/releases/download/untagged-d58bac3a74941c8b0ccb/rubyinstaller-devkit-3.4.8-1-x86.exe
+  href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.8-1/rubyinstaller-devkit-3.4.8-1-x86.exe
   name: Ruby+Devkit 3.4.8-1 (x86)
   sha256: 5d450ce99aebefc6ded38b1711ecb5fee305ae2c1e2b77add1e44b6b2efde219
-  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/untagged-d58bac3a74941c8b0ccb/rubyinstaller-devkit-3.4.8-1-x86.exe.asc
+  gpgsign: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.8-1/rubyinstaller-devkit-3.4.8-1-x86.exe.asc
   show: true
 - filetype: rubyinstaller7z
   href: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.7-1/rubyinstaller-3.4.7-1-arm.7z
