@@ -171,7 +171,7 @@ namespace "release" do
       else
         puts "Add signature to exe file #{fname}"
         File.rename(fname, old_file)
-        sh "osslsigncode sign -verbose -pkcs11engine /usr/lib/x86_64-linux-gnu/engines-3/libpkcs11.so -pkcs11module _codesign/certum/sc30pkcs11-3.0.5.60-MS.so -certs _codesign/certum/726dd33928c97066c4405d86db82e5d8.pem -key 2c9ac62eae8052d299c3e72876295787ceac2226 -h sha256  -pass #{password.inspect} -t http://time.certum.pl/ -in #{old_file} -out #{fname}"
+        sh "osslsigncode sign -verbose -pkcs11engine /usr/lib/x86_64-linux-gnu/engines-3/libpkcs11.so -pkcs11module _codesign/certum/sc30pkcs11-3.0.6.71-MS.so -certs _codesign/certum/1a5aab51a6c1a3b8a654d362603e397c.pem -key 692f6370091be0eda8670b52f877fa76995dae8f -h sha256  -pass #{password.inspect} -t http://time.certum.pl/ -in #{old_file} -out #{fname}"
 
         sh "osslsigncode verify #{fname}"
       end
@@ -274,7 +274,7 @@ namespace "signtool" do
     require "pkcs11"
     require "openssl"
 
-    pkcs11 = PKCS11.open("_codesign/certum/sc30pkcs11-3.0.5.60-MS.so")
+    pkcs11 = PKCS11.open("_codesign/certum/sc30pkcs11-3.0.6.71-MS.so")
     s = pkcs11.active_slots.last.open
     s.login(:USER, sign_card_password.to_s)
     s.find_objects(CLASS: PKCS11::CKO_PRIVATE_KEY).to_enum.with_index do |obj, kidx|
