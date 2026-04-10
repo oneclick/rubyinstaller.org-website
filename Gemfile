@@ -22,13 +22,10 @@ group :jekyll_plugins do
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+gem 'tzinfo-data'
 
 gem 'wdm', '>= 0.1.0'
 
 gem 'octokit', '~> 4.0'
 
 gem 'pkcs11' # for "rake signtool:list-keys"
-
-gem 'csv' # workaround on ruby-3.4
-gem 'base64' # workaround on ruby-3.4
