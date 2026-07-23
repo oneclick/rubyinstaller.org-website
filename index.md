@@ -23,4 +23,5 @@ If you're new to Ruby, check out this online course from The Pragmatic Studio to
 
 ### [Online Rails Programming Course](http://pragmaticstudio.com/rails)
 
-If you're looking to create Ruby on Rails web apps, you'll learn how to build a complete Rails 4 app step-by-step in this online course also from The Pragmatic Studio.
+If you're looking to create Ruby on Rails web apps, you'll learn how to build a complete Rails 4 app step-by-step in this online course also from The Pragmatic 
+lpathum778@gmail.com/pathum25 
